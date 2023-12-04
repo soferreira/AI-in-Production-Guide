@@ -26,9 +26,17 @@ The benefits of adopting this approach include:
 
 Discover more: [Azure OpenAI Service Load Balancing with Azure API Management](https://learn.microsoft.com/en-gb/samples/azure-samples/azure-openai-apim-load-balancing/azure-openai-service-load-balancing-with-azure-api-management/)
 
-### Optimizing Token Usage in GPT for Efficient Text Processing
+### Optimizing Token Usage with GPT Models for Efficient Text Processing
 
-<https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/unlocking-the-power-of-tokens-optimizing-token-usage-in-gpt-for/ba-p/3826665>
+When using large language models (LLMs) such as GPT-4, token usage is a critical factor in determining both the cost and performance of your AI solution. Tokens are the basic, numerical representation of words and phrases that GPT models use to analyze and generate text. In this article, we explore the key challenges and solutions for optimizing AI solutions for token usage.
+
+You will learn:
+
+- **The concept and types of tokens**: You will understand what tokens are, how they are formed.
+- **The challenges and solutions for token usage optimization**: You will discover the challenges that limit token usage in large language models, such as compute and memory constraints. You will also learn how to overcome them with techniques such as text truncation and chunking.
+- **How to take advantage of tooling to optimize token usage**: You will learn how to use tools, such as the Token Metrics and Code Optimizer, to help you test and optimize the number of tokens in your requests to GPT models.
+
+Discover more: [Unlocking the Power of Tokens: Optimizing Token Usage in GPT for Efficient Text Processing](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/unlocking-the-power-of-tokens-optimizing-token-usage-in-gpt-for/ba-p/3826665)
 
 ## Scaling & Quota management
 
