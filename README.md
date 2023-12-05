@@ -1,20 +1,42 @@
 # AI in Production Guide
 
-## Performance
+This article centralizes Azure AI information and tools to enable a smooth transition of AI workloads into Production environment.
 
-## Networking & Security
+<!-- vscode-markdown-toc -->
+* [Performance](#Performance)
+* [Network and Security](#NetworkandSecurity)
+* [Cost Management/Optimization](#CostManagementOptimization)
+* [Reliability/High Availability](#ReliabilityHighAvailability)
+	* [Strategies for Managing High Volume Token Demand](#StrategiesforManagingHighVolumeTokenDemand)
+	* [Load Balancing multi-region Azure OpenAI Instances with Azure API Management](#LoadBalancingmulti-regionAzureOpenAIInstanceswithAzureAPIManagement)
+	* [Optimizing Token Usage with GPT Models for Efficient Text Processing](#OptimizingTokenUsagewithGPTModelsforEfficientTextProcessing)
+* [Scaling & Quota management](#ScalingQuotamanagement)
+* [Observability](#Observability)
+* [Multitenant applications](#Multitenantapplications)
+	* [Multitenancy and Azure OpenAI Service](#MultitenancyandAzureOpenAIService)
+	* [Design patterns for multitenant SaaS applications and Azure AI Search](#DesignpatternsformultitenantSaaSapplicationsandAzureAISearch)
 
-## Cost Management/Optimization
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 
-## Reliability/High Availability
+## <a name='Performance'></a>Performance
+
+## <a name='NetworkandSecurity'></a>Network and Security
+
+## <a name='CostManagementOptimization'></a>Cost Management/Optimization
+
+## <a name='ReliabilityHighAvailability'></a>Reliability/High Availability
 
 Reliability and high availability are critical components of any production system, including AI solutions built with large language models (LLMs). In this section, we will explore the best practices you can apply to your AI solutions to ensure they have appropriate means in place to load balance requests, failover to healthy instances, and recover from failures.
 
-### Strategies for Managing High Volume Token Demand
+### <a name='StrategiesforManagingHighVolumeTokenDemand'></a>Strategies for Managing High Volume Token Demand
 
 <link-to-new-content>
 
-### Load Balancing multi-region Azure OpenAI Instances with Azure API Management
+### <a name='LoadBalancingmulti-regionAzureOpenAIInstanceswithAzureAPIManagement'></a>Load Balancing multi-region Azure OpenAI Instances with Azure API Management
 
 If you are developing a production AI solution using Azure OpenAI and need to optimize for high availability and reliability, you may want to use multiple Azure OpenAI instances across multiple regions. However, managing and distributing the requests to a pool of Azure OpenAI instances can be a challenge. In this article and code sample, we show you how to use Azure API Management to simplify this process using load balancing policies with a straight forward Bicep template deployment.
 
@@ -26,7 +48,7 @@ The benefits of adopting this approach include:
 
 Discover more: [Azure OpenAI Service Load Balancing with Azure API Management](https://learn.microsoft.com/en-gb/samples/azure-samples/azure-openai-apim-load-balancing/azure-openai-service-load-balancing-with-azure-api-management/)
 
-### Optimizing Token Usage with GPT Models for Efficient Text Processing
+### <a name='OptimizingTokenUsagewithGPTModelsforEfficientTextProcessing'></a>Optimizing Token Usage with GPT Models for Efficient Text Processing
 
 When using large language models (LLMs) such as GPT-4, token usage is a critical factor in determining both the cost and performance of your AI solution. Tokens are the basic, numerical representation of words and phrases that GPT models use to analyze and generate text. In this article, we explore the key challenges and solutions for optimizing AI solutions for token usage.
 
@@ -38,8 +60,20 @@ You will learn:
 
 Discover more: [Unlocking the Power of Tokens: Optimizing Token Usage in GPT for Efficient Text Processing](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/unlocking-the-power-of-tokens-optimizing-token-usage-in-gpt-for/ba-p/3826665)
 
-## Scaling & Quota management
+## <a name='ScalingQuotamanagement'></a>Scaling & Quota management
 
-## Observability
+## <a name='Observability'></a>Observability
 
-## Multi-tenant architecture
+## <a name='Multitenantapplications'></a>Multitenant applications
+
+### <a name='MultitenancyandAzureOpenAIService'></a>Multitenancy and Azure OpenAI Service
+
+A multitenant solution is one used by multiple customers, or tenants. When you have a multitenant system that uses Azure OpenAI, there are several elements and isolation models you need to consider that factor into your architecture.
+
+Discover more: [Multitenancy and Azure OpenAI Service](https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai)
+
+### <a name='DesignpatternsformultitenantSaaSapplicationsandAzureAISearch'></a>Design patterns for multitenant SaaS applications and Azure AI Search
+
+In the case of a multitenant scenario, the application developer consumes one or more search services and divides their tenants among services, indexes, or both. Azure AI Search has a few common patterns when modeling a multitenant scenario.
+
+Discover more: [Design patterns for multitenant SaaS applications and Azure AI Search](https://learn.microsoft.com/azure/search/search-modeling-multitenant-saas-applications)
