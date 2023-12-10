@@ -50,6 +50,7 @@ In this section, we delve into the crucial aspects of reliability and high avail
 
 ### Load Balancing multi-region Azure OpenAI Instances with Azure API Management
 
+
 If you are developing a production AI solution using Azure OpenAI and need to optimize for high availability and reliability, you may want to use multiple Azure OpenAI instances across multiple regions. However, managing and distributing the requests to a pool of Azure OpenAI instances can be a challenge. In this article and code sample, we show you how to use Azure API Management to simplify this process using load balancing policies with a straight forward Bicep template deployment.
 
 The benefits of adopting this approach include:
@@ -85,6 +86,7 @@ Discover more: [Unlocking the Power of Tokens: Optimizing Token Usage in GPT for
 A multitenant solution is one used by multiple customers, or tenants. When you have a multitenant system that uses Azure OpenAI, there are several elements and isolation models you need to consider that factor into your architecture.
 
 Discover more: [Multitenancy and Azure OpenAI Service](https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai)
+
 
 ### Design patterns for multitenant SaaS applications and Azure AI Search
 
