@@ -2,7 +2,7 @@
 
 This article serves as a comprehensive guide and a centralized resource for professionals venturing into the world of artificial intelligence with Azure. It aims to demystify the process of AI project development and provide a smooth transition of AI workloads into a production environment. This guide is tailored not only for technical practitioners but also for business leaders and project managers, offering a roadmap that spans from conceptualizing AI solutions to their full-scale deployment. By consolidating Azure AI information and tools, we aim to make the journey of AI integration and application more accessible and efficient for a diverse range of audiences.
 
-![AI Lifecycle Mastery: From Concept to Reality – Navigating Successful AI Deployments](./media/cover-op1.png)
+![AI Lifecycle Mastery: From Concept to Reality – Navigating Successful AI Deployments](./media/cover-op2.jpeg)
 
 ## Chapter 1: Setting Off: Understanding AI's Landscape
 
