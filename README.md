@@ -18,6 +18,6 @@ This article serves as a comprehensive guide and a centralized resource for prof
 10. [Chapter 10: Weatherproofing the Journey: Reliability/High Availability](chapters/chapter_10_weatherproofing_journey_reliability_high_availability.md)
 11. [Chapter 11: Expanding Horizons: Scaling & Quota Management](chapters/chapter_11_expanding_horizons_scaling_quota_management.md)
 12. [Chapter 12: Keeping a Log: Observability](chapters/chapter_12_keeping_log_observability.md)
-13. [Chapter 13: Building for Everyone: Multi-tenant Architecture](chapters/chapter_13_building_for_everyone_multi_tenant_architecture.md)
+13. [Chapter 13: Building for Everyone: Multi-tenant Architecture](chapters/chapter_13_building_for_everyone_multitenant_architecture.md)
 14. [Chapter 14: Arrival: Deployment Strategies](chapters/chapter_14_arrival_deployment_strategies.md)
 15. [Chapter 15: Continuing the Voyage: Monitoring and Maintenance](chapters/chapter_15_continuing_voyage_monitoring_maintenance.md)
