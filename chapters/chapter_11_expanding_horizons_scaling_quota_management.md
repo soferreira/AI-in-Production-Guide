@@ -1,6 +1,8 @@
 # Chapter 11: Expanding Horizons: Scaling & Quota Management
 
-- **Description**: Techniques for scaling AI solutions and managing quotas. Links to scalability guides and resource management best practices.
+In the ever-evolving landscape of AI, the ability to scale solutions efficiently and manage quotas for managed services effectively is critical. In this chapter, we delve into techniques for expanding the horizons of your AI applications, ensuring they not only meet the growing demands of your customers but do so with finesse and strategic foresight.
+
+## Strategies for Optimizing High-Volume Token Usages with Azure OpenAI
 
 ## Load Balancing multi-region Azure OpenAI Instances with Azure API Management
 
