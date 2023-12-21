@@ -12,6 +12,8 @@ To ensure that AI solutions can handle the increasing volume of data and request
 
 ### How to scale Azure AI services
 
+- **Combining PTU and TPM Azure OpenAI deployments**: When scaling Azure AI services, it's crucial to balance cost-efficiency with performance. The [Azure OpenAI Using PTUs/TPMs with API Management - Using the Scaling Special Sauce](https://github.com/Azure/aoai-apim/blob/main/README.md) article highlights how to secure reserved capacity for predictable performance and combine with pay-as-you-go tokens to offer flexibility for varying workloads. Combined with Azure API Management, this approach allows you to avoid bottlenecks in your AI solutions to scale out to meet customer demands.
+
 ### Useful examples for scaling Azure AI services
 
 ## Navigating quota management for Azure AI services
