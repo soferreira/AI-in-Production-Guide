@@ -55,8 +55,6 @@ When it comes to scaling and quota management for Azure AI services, there are a
 
 ## Conclusion
 
-This chapter has provided a comprehensive exploration of the critical aspects of scaling and quota management for Azure AI services in production.
-
 Scaling is a fundamental requirement for meeting the escalating demands of users and applying appropriate strategies for optimizing AI solutions leads to smooth user experiences on Azure. From leveraging the latest advancements in Azure's AI infrastructure to employing built-in auto-scaling features in Azure AI Services, these practical insights guide you in maintaining seamless user experiences during usage spikes.
 
 Equally important is understanding quota management, an essential practice for controlling resource consumption and preventing overuse and overspending. Whether optimizing Azure Machine Learning quotas at scale or managing quotas with Azure OpenAI using TPMs or PTUs, it is important to align resources with your project needs.
