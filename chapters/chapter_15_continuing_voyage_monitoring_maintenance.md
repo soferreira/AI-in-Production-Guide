@@ -109,11 +109,16 @@ When you have critical applications and business processes relying on Azure reso
 
 Once a machine learning model is in production, it's important to critically evaluate the inherent risks associated with it and identify blind spots that could adversely affect your business. This [article](https://learn.microsoft.com/azure/machine-learning/how-to-monitor-model-performance?view=azureml-api-2&tabs=azure-cli) provides insights on how to perform out-of-box and advanced monitoring setup for models that are deployed to Azure Machine Learning online endpoints. It also explains how to set up model monitoring for models that are deployed outside Azure Machine Learning or deployed to Azure Machine Learning batch endpoints.
 
+## Azure Machine Learning Studio
 
-AML Studio
+### Monitor and analyze jobs in studio
 
-[Monitor and analyze jobs in studio](https://learn.microsoft.com/azure/machine-learning/how-to-track-monitor-analyze-runs?view=azureml-api-2)
+You can use Azure Machine Learning studio to monitor, organize, and track your jobs for training and experimentation. Your ML job history is an important part of an explainable and repeatable ML development process. Discover more [here](https://learn.microsoft.com/azure/machine-learning/how-to-track-monitor-analyze-runs?view=azureml-api-2).
 
-[Organize & track training jobs](https://learn.microsoft.com/azure/machine-learning/how-to-track-monitor-organize-jobs?view=azureml-api-2)
+### Organize & track training jobs
 
-[Visualize training results in studio](https://learn.microsoft.com/azure/machine-learning/how-to-visualize-jobs?view=azureml-api-2)
+You can use the jobs list view in Azure Machine Learning studio to organize and track your jobs. By selecting a job, you can view and analyze its details, such as metrics, parameters, logs, and outputs. This way, you can keep track of your ML job history and ensure a transparent and reproducible ML development process. Discover more [here](https://learn.microsoft.com/azure/machine-learning/how-to-track-monitor-organize-jobs?view=azureml-api-2).
+
+### Visualize training results in studio
+
+Explore your experimentation results with a dashboard view. The dashboard view contains a combination of different tiles – chart visualizations, comparison table, markdown, and more for a view that is dynamic, flexible, and customizable for you to explore your experimentation results. The dashboard can help you to save time, keep your results organized, and make informed decisions such as whether to re-train or deploy your model. Discover more [here](https://learn.microsoft.com/azure/machine-learning/how-to-visualize-jobs?view=azureml-api-2).
