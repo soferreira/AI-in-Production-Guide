@@ -1,6 +1,6 @@
 # Chapter 13: Building for Everyone: Multitenant Architecture
 
-- **Description**: Designing AI solutions for multi-tenant architectures. Resources on best practices, challenges, and strategies for multi-tenancy.
+In this chapter, we delve into the intricacies of designing AI solutions for multi-tenant architectures. We will provide resources that highlight best practices, discuss potential challenges, and outline effective strategies for implementing multitenancy.
 
 ## Architectural approaches for AI and ML in multitenant solutions
 
