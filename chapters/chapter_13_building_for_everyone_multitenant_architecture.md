@@ -34,3 +34,12 @@ In conclusion, careful consideration of isolation models, customization, and sec
 ## Design patterns for multitenant SaaS applications and Azure AI Search
 
 The article "[Design patterns for multitenant SaaS applications and Azure AI Search](https://learn.microsoft.com/azure/search/search-modeling-multitenant-saas-applications)" provides a comprehensive guide on tenant isolation strategies for applications built with Azure AI Search. This service is a powerful tool that empowers developers to integrate rich search experiences into their applications, eliminating the need for infrastructure management or expertise in information retrieval. Additionally, it highlights valuable insights into prevalent design patterns for multitenant scenarios, including one index per tenant, one service per tenant, a mix of both, and a single index with multiple scopes. Each pattern's advantages and disadvantages are thoroughly analyzed, considering factors like tenant isolation, cloud resource cost, operational ease, global footprint, and scalability.
+
+## Key Takeaways for AI Multitenant Architecture
+
+Multitenant architecture is a design pattern that allows multiple customers or users to share the same application or service, while maintaining their own data and configuration. AI multitenant solutions pose unique challenges and opportunities, such as data isolation, model customization, resource allocation, and scalability, with different architectural approaches and trade-offs. To effectively manage these challenges consider the following recommendations:
+
+- **Implement robust data isolation**: Ensure that each tenant's data is securely isolated from others to maintain privacy and security.
+- **Allow for model customization**: Different tenants may have different needs and preferences. Therefore, it's important to allow for customization of AI models to cater to individual tenant requirements.
+- **Efficient resource allocation**: Resources should be allocated in a way that optimizes performance for all tenants. This could involve load balancing, dynamic resource allocation, or other strategies.
+- **Plan for scalability**: As the number of tenants increases, the system should be able to scale accordingly without compromising on performance or functionality.
