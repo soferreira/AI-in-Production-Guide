@@ -21,16 +21,16 @@ When building AI/ML applications in a multitenant environment, there are several
 - **Customizability**: Depending on your application, you might need to provide tenants with the ability to customize the AI/ML models or features to suit their specific needs.
 - **Cost Management**: The costs of running AI/ML workloads can be high, especially when it comes to data storage and compute resources for model training and prediction. You'll need to manage these costs effectively while ensuring fair pricing for each tenant.
 
-Approaches to these considerations can vary. For example, you might choose to have each tenant's data and models completely isolated. Alternatively, you might opt to have data and models that are shared across tenants, but with strict access controls to ensure data privacy. Hybrid approaches are also possible, depending on the specific needs and constraints of your application. Discover more: [Architectural approaches for AI and ML in multitenant solutions](https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-ml)
+Approaches to these considerations can vary. For example, you might choose to have each tenant's data and models completely isolated. Alternatively, you might opt to have data and models that are shared across tenants, but with strict access controls to ensure data privacy. Hybrid approaches are also possible, depending on the specific needs and constraints of your application. The article "[Architectural approaches for AI and ML in multitenant solutions](https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-ml)" offers a comprehensive and detailed analysis of the topic.
 
 ## Multitenancy and Azure OpenAI Service
 
-A multitenant solution is one used by multiple customers, or tenants. When you have a multitenant system that uses Azure OpenAI, there are several elements and isolation models you need to consider that factor into your architecture.
+When architecting a multitenant system utilizing Azure OpenAI, several key components and isolation models must be taken into account. The choice of isolation model is crucial and can significantly impact the system's performance and cost-effectiveness.
 
-Discover more: [Multitenancy and Azure OpenAI Service](https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai)
+Isolation models, which include one instance per tenant, one instance per provider, or shared instances, offer varying degrees of data and performance isolation. Each tenancy model presents its own set of benefits and challenges. Additionally, employing managed identities and Role-Based Access Control (RBAC) can ensure secure access to Azure OpenAI.
+
+In conclusion, careful consideration of isolation models, customization, and security measures is essential for optimal performance and security. For a more comprehensive understanding, the article "[Multitenancy and Azure OpenAI Service](https://learn.microsoft.com/azure/architecture/guide/multitenant/service/openai)" provides an in-depth exploration of the topic.
 
 ## Design patterns for multitenant SaaS applications and Azure AI Search
 
-In the case of a multitenant scenario, the application developer consumes one or more search services and divides their tenants among services, indexes, or both. Azure AI Search has a few common patterns when modeling a multitenant scenario.
-
-Discover more: [Design patterns for multitenant SaaS applications and Azure AI Search](https://learn.microsoft.com/azure/search/search-modeling-multitenant-saas-applications)
+The article "[Design patterns for multitenant SaaS applications and Azure AI Search](https://learn.microsoft.com/azure/search/search-modeling-multitenant-saas-applications)" provides a comprehensive guide on tenant isolation strategies for applications built with Azure AI Search. This service is a powerful tool that empowers developers to integrate rich search experiences into their applications, eliminating the need for infrastructure management or expertise in information retrieval. Additionally, it highlights valuable insights into prevalent design patterns for multitenant scenarios, including one index per tenant, one service per tenant, a mix of both, and a single index with multiple scopes. Each pattern's advantages and disadvantages are thoroughly analyzed, considering factors like tenant isolation, cloud resource cost, operational ease, global footprint, and scalability.
