@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - pages
     paths:
       - "**.md"
   workflow_dispatch:
