@@ -126,3 +126,13 @@ You can use the jobs list view in Azure Machine Learning studio to organize and 
 ### Visualize training results in studio
 
 Explore your experimentation results with a dashboard view. The dashboard view contains a combination of different tiles – chart visualizations, comparison table, markdown, and more for a view that is dynamic, flexible, and customizable for you to explore your experimentation results. The dashboard can help you to save time, keep your results organized, and make informed decisions such as whether to re-train or deploy your model. Discover more [here](https://learn.microsoft.com/azure/machine-learning/how-to-visualize-jobs?view=azureml-api-2).
+
+## Key Takeaways and Actionable Strategies for AI Monitoring in Azure
+
+It is important to monitor AI solutions to ensure their availability, performance, and operation. Monitoring can help detect and resolve issues quickly, and ensure that the AI solution is performing optimally. Here are some recommendations when building AI solutions on Azure to act on:
+
+- **Set up monitoring dashboards**: Azure provides out-of-box dashboards for each of your Azure resources. To access the monitoring dashboards, sign in to the Azure portal and select the overview pane for one of your Azure resources.
+- **Configure diagnostic settings**: You can configure Azure Monitor to generate data in activity logs, resource logs, virtual machine logs, and platform metrics. Platform metrics and the Azure Monitor activity log are collected and stored automatically. This data can be routed to other locations by using a diagnostic setting. Azure Monitor resource logs aren’t collected and stored until you create a diagnostic setting and then route the logs to one or more locations. When you create a diagnostic setting, you specify which categories of logs to collect.
+- **Analyze metrics**: You can analyze metrics for your Azure resources with Azure Monitor tools in the Azure portal. From the Overview page for your Azure resource, select Metrics under Monitoring in the left pane.
+
+By following these recommendations, teams can ensure that their AI solutions are performing optimally and that any issues are detected and resolved quickly.
