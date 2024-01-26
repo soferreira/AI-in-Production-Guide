@@ -21,3 +21,12 @@ This article serves as a comprehensive guide and a centralized resource for prof
 13. [Chapter 13: Building for Everyone: Multitenant Architecture](chapters/chapter_13_building_for_everyone_multitenant_architecture.md)
 14. [Chapter 14: Arrival: Deployment Strategies](chapters/chapter_14_arrival_deployment_strategies.md)
 15. [Chapter 15: Continuing the Voyage: Monitoring and Maintenance](chapters/chapter_15_continuing_voyage_monitoring_maintenance.md)
+
+## Contributors
+
+The content and resources in this guide have been curated by the following original contributors.
+
+- Sofia Ferreira - Customer Engineer - Microsoft
+- Yoav Dobrin - Principal Customer Engineer - Microsoft
+- James Croft - Customer Engineer - Microsoft
+- Olga Molocenco-Ciureanu - Customer Engineer - Microsoft

@@ -1,10 +1,20 @@
+---
+nav_order: 5
+has_children: false
+title: Chapter 4 - Data Management and Ethics
+permalink: /chapters/chapter_04_mapping_terrain_data_management_ethics
+layout: default
+---
+
 # Chapter 4: Mapping the Terrain: Data Management and Ethics
 
 In this chapter we delve into the crux of any AI project - the data. No AI can function without data, making data management a critical step in the AI lifecycle. However, handling data isn't just about collection and storage. It is a multidimensional process with ethical implications. In this chapter, we aim to provide a comprehensive guide on managing data effectively and ethically with a focus on AI.
 
+![Mapping the Terrain: Data Management and Ethics](./../media/chapter4.png)
+
 ## Understanding Data Management
 
-Data management is the process of ingesting, storing, organizing and maintaining the data created and collected by an organization. Effective data management is a crucial piece of deploying systems that run business applications and provide analytical information to help drive operational decision-making and strategic planning by corporate executives, business managers and other end users. The data management process includes a combination of different functions that collectively aim to make sure the data in corporate systems is accurate, available and accessible. 
+Data management is the process of ingesting, storing, organizing and maintaining the data created and collected by an organization. Effective data management is a crucial piece of deploying systems that run business applications and provide analytical information to help drive operational decision-making and strategic planning by corporate executives, business managers and other end users. The data management process includes a combination of different functions that collectively aim to make sure the data in corporate systems is accurate, available and accessible.
 
 Artificial Intelligence (AI) and data strategy are closely intertwined, with AI being a fundamentally data-centric discipline. AI models depend heavily on the quality, diversity, and representativeness of the data they are trained on. Consequently, the effectiveness of AI models is directly tied to how well the data is managed, making a well-defined data strategy crucial. This strategy ensures that data is clean, integrated, and well-governed, which are key factors in the successful application of AI.
 
@@ -36,7 +46,7 @@ Let's discuss the methods of data collection, best practices for quality assuran
 
 ### Data Cleaning and Preparation
 
-Next, we will explain the process of data cleaning, including dealing with missing data, outliers, and duplicated data. 
+Next, we will explain the process of data cleaning, including dealing with missing data, outliers, and duplicated data.
 
 1. [AI Explainer: What Is Data Cleaning?](https://www.zenoss.com/blog/ai-explainer-what-is-data-cleaning) by Zenoss4: This article explains the process of cleaning, transforming, and organizing data to make it suitable for analysis or machine learning4.
 
@@ -82,7 +92,7 @@ Ethics in AI, crucial for deployment success, goes beyond codes and algorithms t
 
 1. [Responsible AI principles](https://www.microsoft.com/en-us/ai/principles-and-approach/) from Microsoft discusses a framework and approach to AI that is based on fairness, reliability and safety, privacy and security and Inclusiveness as fundamental principles. It also proposes tools and measures to help organizations navigate their own Responsible AI journey.
 
-2. [Ethics of Artificial Intelligence](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) by UNESCO: This article discusses the ethics of artificial intelligence. It covers the rapid rise in artificial intelligence and the profound ethical concerns that arise from the potential of AI systems to embed biases, contribute to climate degradation, threaten human rights, and more. 
+2. [Ethics of Artificial Intelligence](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) by UNESCO: This article discusses the ethics of artificial intelligence. It covers the rapid rise in artificial intelligence and the profound ethical concerns that arise from the potential of AI systems to embed biases, contribute to climate degradation, threaten human rights, and more.
 
 3. [A Practical Guide to Building Ethical AI](https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai) by Reid Blackman: This article provides a practical guide to building ethical AI. It discusses how to operationalize data and AI ethics, including identifying existing infrastructure, creating a data and AI ethical risk framework, changing how you think about ethics, optimizing guidance and tools for product managers, building organizational awareness, incentivizing employees to identify AI ethical risks, and monitoring impacts and engaging stakeholders.
 

@@ -1,8 +1,16 @@
+---
+nav_order: 2
+has_children: false
+title: Chapter 1 - Understanding AI's Landscape
+permalink: /chapters/chapter_01_setting_off_understanding_ai_landscape
+layout: default
+---
+
 # Chapter 1: Setting Off: Understanding AI's Landscape
 
 Welcome to the comprehensive guide on leveraging Azure's AI capabilities for your organization. This document is designed to assist CTOs, Development Leads, and Chief Architects of Independent Software Vendors (ISVs) in navigating the complex landscape of AI, focusing on Azure's AI services, including Azure OpenAI, machine learning, and cognitive services.
 
-![Taking the first step](./../media/chapter1.png)
+![Setting Off: Understanding AIs Landscape](./../media/chapter1.png)
 
 **Further Reading on AI History**: For those interested in the historical evolution of AI, these resources offer a deeper dive.
 

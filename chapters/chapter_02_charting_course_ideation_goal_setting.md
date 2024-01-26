@@ -1,3 +1,11 @@
+---
+nav_order: 3
+has_children: false
+title: Chapter 2 - Ideation and Goal Setting
+permalink: /chapters/chapter_02_charting_course_ideation_goal_setting
+layout: default
+---
+
 # Chapter 2: Charting the Course: Ideation and Goal Setting
 
 In this chapter, we explore the vital process of ideation and goal setting in Artificial Intelligence (AI) projects. These initial stages are crucial in shaping the direction, feasibility, and alignment of AI initiatives with business objectives. Understanding these early stages deeply impacts the success of AI projects. This chapter provides comprehensive insights and resources to navigate this critical phase effectively.

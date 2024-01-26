@@ -1,13 +1,20 @@
+---
+nav_order: 8
+has_children: false
+title: Chapter 7 - Performance
+permalink: /chapters/chapter_07_navigating_rough_seas_performance
+layout: default
+---
 
 # Chapter 7: Navigating Rough Seas: Performance
 
 This chapter navigates the complex yet crucial aspects of AI performance, addressing both theoretical and practical dimensions. As AI continues to integrate into diverse sectors, understanding and optimizing its performance is imperative. We embark on a journey through various facets of AI performance, exploring metrics, benchmarking, optimization techniques, and post-deployment challenges.
 
+![Navigating Rough Seas: Performance](./../media/chapter7.png)
+
 ## Understanding AI Performance Metrics
 
 In this section, we dive into the multifaceted nature of AI model performance. Performance in AI transcends simple speed metrics, encompassing a variety of dimensions that collectively define the effectiveness of a model. Each aspect, from accuracy and reliability to fairness and interpretability, plays a crucial role in the overall performance and applicability of AI systems. Below, we've curated a selection of insightful articles and research papers that offer in-depth perspectives and expert analyses on these diverse performance metrics. These resources will guide you in comprehensively understanding and evaluating the performance of AI models.
-
-![AI model performance](./../media/chapter7_header.png)
 
 ### Beyond Speed: A Holistic View
 

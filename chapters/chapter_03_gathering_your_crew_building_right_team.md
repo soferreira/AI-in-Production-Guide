@@ -1,6 +1,12 @@
-# Chapter 3: Gathering Your Crew: Building the Right Team
+---
+nav_order: 4
+has_children: false
+title: Chapter 3 - Building the Right Team
+permalink: /chapters/chapter_03_gathering_your_crew_building_right_team
+layout: default
+---
 
-## Introduction
+# Chapter 3: Gathering Your Crew: Building the Right Team
 
 In the rapidly evolving field of artificial intelligence, assembling the right team is not just about skills and experience. It's about creating a synergy of ethics, diversity, and collaborative efficiency, vital for the success of AI projects.
 
@@ -8,6 +14,8 @@ In the rapidly evolving field of artificial intelligence, assembling the right t
 
 - **Microsoft's Responsible AI Standard**: The [Responsible AI Standard v2](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-Responsible-AI-Standard-v2-General-Requirements-3.pdf) by Microsoft represents a significant milestone in the ongoing journey towards responsible AI. This document, born from years of dedicated effort, sets forth comprehensive product development requirements aimed at fostering responsible AI practices. This second version of Microsoft's standard to both disseminate the learnings and invite external feedback, thereby contributing to the broader conversation on establishing robust norms and practices in AI. Recognizing this as a dynamic process, Microsoft emphasize that the standard will continuously evolve, adapting to new research, technological advancements, legal changes, and internal and external insights.
 - **Advancements and Ethics in AI by Microsoft**: In ["Responsible AI in the Age of ChatGPT and Beyond"](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence/), a senior Microsoft leader discusses the impact of AI technologies like ChatGPT on knowledge work and creativity. He highlights AI's potential to enhance productivity, innovation, and various sectors, while acknowledging the ethical and social challenges it poses. The author sets three goals for responsible AI: ensuring ethical use, advancing competitiveness and security, and serving society broadly. He calls for collaborative efforts and a wider dialogue among stakeholders to navigate AI's future responsibly.
+
+![Gathering Your Crew: Building the Right Team](./../media/chapter3.png)
 
 ## Identifying Key Roles in AI Projects
 

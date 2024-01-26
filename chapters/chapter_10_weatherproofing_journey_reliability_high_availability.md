@@ -1,8 +1,16 @@
-# Chapter 10: Weatherproofing the Journey: Reliability/High Availability
+---
+nav_order: 11
+has_children: false
+title: Chapter 10 - Reliability and High Availability
+permalink: /chapters/chapter_10_weatherproofing_journey_reliability_high_availability
+layout: default
+---
+
+# Chapter 10: Weatherproofing the Journey: Reliability and High Availability
 
 In this section, we delve into the crucial aspects of reliability and high availability, which are essential for any production system, particularly AI solutions utilizing large language models (LLMs). We will provide resources and best practices for building resilient AI systems, focusing on strategies to enhance system availability. This includes exploring effective methods for load balancing requests, implementing failover mechanisms to healthy instances, and establishing robust recovery protocols from failures. Our goal is to equip you with the knowledge and tools necessary to ensure your AI systems are not only reliable but also consistently available, thereby optimizing their performance and utility in real-world applications.
 
-![Digital artwork representing 'Weatherproofing the Journey'](./../media/chapter10.jpg)
+![Weatherproofing the Journey: Reliability and High Availability](./../media/chapter10.jpg)
 
 ## Importance of building resilient AI solutions
 
