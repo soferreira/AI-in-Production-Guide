@@ -1,0 +1,44 @@
+$link-color: $blue-000;
+
+@media (min-width: 50rem) {
+  * {
+    box-sizing: border-box !important;
+  }
+
+  body {
+    display: flex !important;
+    flex-direction: row !important;
+    overflow: hidden !important;
+  }
+
+  .side-bar {
+    height: 100vh !important;
+    width: auto !important;
+    min-width: max-content !important;
+    position: static !important;
+  }
+
+  .main {
+    height: 100vh !important;
+    overflow-y: scroll !important;
+    width: auto !important;
+    margin-left: auto !important;
+    max-width: 100% !important;
+  }
+
+  .site-nav,
+  .site-header,
+  .site-footer {
+    width: 100% !important;
+  }
+
+  .site-nav {
+    padding-top: 1rem !important;
+  }
+
+  .search-results,
+  .search-input-wrap {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
