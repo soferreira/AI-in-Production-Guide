@@ -46,7 +46,7 @@ back_to_top: false
 back_to_top_text: "Back to top"
 
 gh_edit_link: true
-gh_edit_link_text: "Edit this page"
+gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/soferreira/AI-in-Production-Guide"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
