@@ -22,6 +22,20 @@ This article serves as a comprehensive guide and a centralized resource for prof
 14. [Chapter 14: Arrival: Deployment Strategies](chapters/chapter_14_arrival_deployment_strategies.md)
 15. [Chapter 15: Continuing the Voyage: Monitoring and Maintenance](chapters/chapter_15_continuing_voyage_monitoring_maintenance.md)
 
+## Building and previewing the guide locally
+
+Assuming [Ruby 3.3](https://github.com/rbenv/rbenv), [Bundler, and Jekyll](https://jekyllrb.com/) are installed on your machine, follow these steps to build and preview the guide locally.
+
+> [!NOTE]
+> Jekyll is not officially supported for Windows. For more information, see "[Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/)" in the Jekyll documentation.
+
+1. Change your working directory to the root of this repository.
+2. Run `bundle` to install all necessary dependencies.
+3. Run `./run.sh` to build the guide site and start the Jekyll server.
+4. Preview the guide at `http://localhost:4000/ai-in-production-guide/`.
+
+The built site is stored in the directory `_site`.
+
 ## Contributors
 
 The content and resources in this guide have been curated by the following original contributors.
