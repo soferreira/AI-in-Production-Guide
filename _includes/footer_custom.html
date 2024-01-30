@@ -1,0 +1,37 @@
+{%- include sorted_pages.html pages = site.html_pages -%}
+
+{% for item in sorted_pages %}
+  {% assign next_i = forloop.index0 | plus: 1 %}
+  {% assign prev_i = forloop.index0 | minus: 1 %}
+  {% if item.url == page.url %}
+    {% if prev_i >= 0 %}
+      {% assign prev_item = sorted_pages[prev_i] %}
+    {% endif %}
+    {% if next_i < sorted_pages.size %}
+      {% assign next_item = sorted_pages[next_i] %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<ul class="pager">
+  {% if prev_item %}
+  <li class="previous-post">
+    <a href="{{ prev_item.url | relative_url }}" aria-label="{{prev_item.title}}">
+      <div class="pager-content">
+        <span>Previous</span>
+        <span class="text">{{prev_item.title}}</span>
+      </div>
+    </a>
+  </li>
+  {% endif %}
+  {% if next_item %}
+  <li class="next-post">
+    <a href="{{ next_item.url | relative_url }}" aria-label="{{next_item.title}}">
+      <div class="pager-content">
+        <span>Next</span>
+        <span class="text">{{next_item.title}}</span>
+      </div>
+    </a>
+  </li>
+  {% endif %}
+</ul>

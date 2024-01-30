@@ -1,12 +1,18 @@
-# Chapter 6: Testing the Waters: Testing and Iteration
+---
+nav_order: 7
+has_children: false
+title: Chapter 6 - Testing and Iteration
+permalink: /chapters/chapter_06_testing_waters_testing_iteration
+layout: default
+---
 
-## Introduction: The Role and Challenges of Testing in AI Projects
+# Chapter 6: Testing the Waters: Testing and Iteration
 
 Testing in AI projects is a pivotal process that differs significantly from traditional software testing methodologies. While the core goal of ensuring functionality and reliability remains the same, the unique characteristics of AI systems demand specialized approaches. This section provides an overview of these differences, emphasizing the critical role that testing plays throughout the AI lifecycle.
 
-![Testing Framework](./../media/chapter6_framework.png)
+![Testing the Waters: Testing and Iteration](./../media/chapter6_framework.png)
 
-**Comparing Testing in AI Projects vs. Non-AI Software Testing**:
+## Comparing Testing in AI Projects vs. Non-AI Software Testing
 
 | Aspect                 | AI Project Testing                                      | Non-AI Software Testing                                 |
 |------------------------|---------------------------------------------------------|---------------------------------------------------------|
@@ -113,7 +119,6 @@ In essence, Exploratory Testing complements structured testing approaches in AI 
 
 - **Critical Role of Exploratory Testing in Agile**: The guide ["The Critical Role of Exploratory Testing in Agile"](https://www.cigniti.com/blog/critical-role-exploratory-testing-agile/) from Cigniti Technologies emphasizes the importance of exploratory testing in Agile methodologies. This approach allows testers to freely navigate software, mimicking real user experiences to uncover and document potential bugs. Key benefits include rapid feedback, adaptability, and the ability to discover unforeseen defects, which aligns well with Agile's fast-paced environment. The guide covers different types of exploratory testing such as free-style, scenario-based, and strategy-based, each suited to various testing needs. It also differentiates exploratory testing from scripted and ad-hoc testing, highlighting its unplanned nature and focus on simultaneous learning and testing within a time limit. Challenges like traceability and lack of product knowledge are discussed, along with solutions like involving skilled testers and logging tests as they occur. The guide also suggests integrating automation tools like Tricentis qTest Explorer and Azure Test Plans for enhanced efficiency, making it a valuable resource for teams aiming to optimize their Agile testing processes.
 - **Enhancing ML Models with EDA and Feature Selection**: The article ["Building Machine Learning Models with Exploratory Data Analysis and Feature Selection"](https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection) from Google Cloud highlights the critical importance of Exploratory Data Analysis (EDA) and feature selection in developing effective machine learning models. It underscores the necessity of data quality and how EDA serves as an essential preparatory step. The article discusses various EDA techniques, including descriptive, correlation, and contextual analysis, each providing unique insights into the data's characteristics and relationships. It addresses common data challenges such as handling missing values and dealing with high correlations, suggesting methods like imputation and dimension reduction. A significant part of the article introduces a user-friendly EDA tool, facilitating tasks like data visualization, statistical analysis, and interactive exploration to reveal hidden patterns. By focusing on the value of thorough data examination and proper feature selection, this guide offers indispensable resources and strategies for data scientists and ML practitioners to enhance model accuracy and efficiency, emphasizing that well-prepared data is the foundation of successful real-world ML applications.
-
 
 ## Tools and Technologies for AI Testing
 

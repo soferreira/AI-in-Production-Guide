@@ -1,8 +1,16 @@
+---
+nav_order: 6
+has_children: false
+title: Chapter 5 - Design and Development
+permalink: /chapters/chapter_05_crafting_vessel_design_development
+layout: default
+---
+
 # Chapter 5: Crafting the Vessel: Design and Development
 
 This chapter is dedicated to the design and development phase of AI projects, a specialized realm within the broader spectrum of software development. While AI-driven projects are fundamentally software endeavors, they present unique challenges and require distinct methodologies, tools, and best practices. Our objective in this chapter is to guide you through these specific aspects, showcasing how to efficiently translate AI concepts into functional and robust solutions. We place a particular focus on harnessing Azure's tools and services to facilitate this journey.
 
-![Digital artwork representing 'Crafting the Vessel'](./../media/chapter5.png)
+![Crafting the Vessel: Design and Development](./../media/chapter5.png)
 
 AI-driven projects, although a subset of software projects, diverge significantly in their approach. They are characterized by a data-centric nature, iterative model development and training, and an emphasis on continuous learning and adaptation. To better understand these differences, let's begin with a comparative table that highlights the key contrasts between AI-driven and traditional software development:
 

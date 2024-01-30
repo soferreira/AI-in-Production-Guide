@@ -1,8 +1,16 @@
-# Chapter 8: Securing the Cargo: Networking & Security
+---
+nav_order: 9
+has_children: false
+title: Chapter 8 - Networking and Security
+permalink: /chapters/chapter_08_securing_cargo_networking_security
+layout: default
+---
 
-## Introduction
+# Chapter 8: Securing the Cargo: Networking and Security
 
-![Conceptual illustration of AI security and ethical vulnerabilities](./../media/chapter8.png)
+Networking and security are two critical aspects that need to be addressed early in the design and development of AI solutions to ensure their smooth functioning. By adopting networking and security in their Azure AI solutions, readers can ensure that their applications are secure, reliable, and trustworthy. This chapter offers readers the guidance to create and manage secure AI applications that align with their organization's values and well-established cybersecurity practices.
+
+![Securing the Cargo: Networking and Security](./../media/chapter8.png)
 
 ### Unique Challenges in AI Projects
 

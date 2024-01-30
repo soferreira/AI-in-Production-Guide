@@ -1,0 +1,88 @@
+$link-color: $blue-000;
+
+@media (min-width: 50rem) {
+  * {
+    box-sizing: border-box !important;
+  }
+
+  body {
+    display: flex !important;
+    flex-direction: row !important;
+    overflow: hidden !important;
+  }
+
+  .side-bar {
+    height: 100vh !important;
+    width: auto !important;
+    min-width: max-content !important;
+    position: static !important;
+  }
+
+  .main {
+    height: 100vh !important;
+    overflow-y: scroll !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    max-width: 100% !important;
+  }
+
+  .site-nav,
+  .site-header,
+  .site-footer {
+    width: 100% !important;
+  }
+
+  .site-nav {
+    padding-top: 1rem !important;
+  }
+
+  .search-results,
+  .search-input-wrap {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+}
+
+@media (min-width: 75rem) {
+  .main {
+    img {
+      max-width: 480px !important;
+    }
+  }
+}
+
+.pager {
+  display: flex;
+  width: 100%;
+  padding: 0 !important;
+
+  li {
+    width: 50%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    list-style: disc;
+    list-style-position: outside;
+    margin: 1rem;
+
+    &::before {
+      content: none !important;
+    }
+  }
+
+  a {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+
+    .pager-content {
+      display: flex;
+      flex-direction: column;
+
+      .text {
+        font-size: 1.5rem;
+      }
+    }
+  }
+}
