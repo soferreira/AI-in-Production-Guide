@@ -58,7 +58,7 @@ $link-color: $blue-000;
 
   li {
     width: 50%;
-    height: auto;
+    height: 60px;
     justify-content: center;
     display: flex;
     list-style: disc;
@@ -81,7 +81,7 @@ $link-color: $blue-000;
       flex-direction: column;
 
       .text {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
       }
     }
   }
