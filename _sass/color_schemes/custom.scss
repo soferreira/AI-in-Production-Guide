@@ -43,6 +43,14 @@ $link-color: $blue-000;
   }
 }
 
+@media (min-width: 75rem) {
+  .main {
+    img {
+      max-width: 480px !important;
+    }
+  }
+}
+
 .pager {
   display: flex;
   width: 100%;
@@ -63,7 +71,6 @@ $link-color: $blue-000;
   }
 
   a {
-    padding: 6% 9%;
     display: flex;
     justify-content: center;
     width: 100%;
