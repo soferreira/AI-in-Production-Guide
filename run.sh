@@ -1,1 +1,1 @@
-bundle exec jekyll serve --config _config.local.yml --baseurl="/ai-in-production-guide" --host localhost --port 4000 --livereload
+bundle exec jekyll serve --config _config.local.yml --baseurl="/AI-in-Production-Guide" --host localhost --port 4000 --livereload
