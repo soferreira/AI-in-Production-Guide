@@ -1,9 +1,9 @@
 # Config for GitHub Pages
 theme: just-the-docs
 
-# ========================================================
-# == everything below is the same as _config.local.yaml ==
-# ========================================================
+# ==================================================
+# == everything below is the same as _config.yaml ==
+# ==================================================
 
 title: AI in Production Guide
 description: >-
@@ -11,7 +11,7 @@ description: >-
   technical professionals venturing into the world of artificial intelligence
   with Azure. It aims to demystify the process of AI project development and
   provide a smooth transition of AI workloads into a production environment.
-baseurl: "/ai-in-production-guide"
+baseurl: "/AI-in-Production-Guide"
 url: ""
 
 favicon_ico: "/media/favicon.png"

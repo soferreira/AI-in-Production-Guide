@@ -32,7 +32,7 @@ Assuming [Ruby 3.3](https://github.com/rbenv/rbenv), [Bundler, and Jekyll](https
 1. Change your working directory to the root of this repository.
 2. Run `bundle` to install all necessary dependencies.
 3. Run `./run.sh` to build the guide site and start the Jekyll server.
-4. Preview the guide at `http://localhost:4000/ai-in-production-guide/`.
+4. Preview the guide at `http://localhost:4000/AI-in-Production-Guide/`.
 
 The built site is stored in the directory `_site`.
 
