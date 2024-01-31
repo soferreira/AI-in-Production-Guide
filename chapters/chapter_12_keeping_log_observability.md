@@ -10,4 +10,4 @@ layout: default
 
 - **Description**: Importance of observability in AI systems. Resources on monitoring, logging, and analyzing AI system performance.
 
-![Keeping a Log: Observability](./../media/chapter12.png)
+![Keeping a Log: Observability](./../media/chapter12.jpg)

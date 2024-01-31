@@ -10,7 +10,7 @@ layout: default
 
 As the landscape of AI-powered solutions transitions from being experimental to being a practical tool for customers, the strategies for deploying AI become increasingly more significant. Understanding how to efficiently deploy and manage these technologies on Azure is not just beneficial but necessary for staying competitive. This chapter delves into the ever-changing landscape of AI on Azure highlighting the importance of efficient, scalable, and secure deployment methods to maximize the success of AI applications with a global reach. It builds on the understanding of previous chapters on [design, development](./chapter_05_crafting_vessel_design_development.md), [testing](./chapter_06_testing_waters_testing_iteration.md), and [observability](./chapter_12_keeping_log_observability.md) to provide a comprehensive guide to the approaches for ensuring consistent delivery of AI solutions on Azure.
 
-![Arrival: Deployment Strategies](./../media/chapter14.png)
+![Arrival: Deployment Strategies](./../media/chapter14.jpg)
 
 ## Foundations of AI Deployment on Azure
 

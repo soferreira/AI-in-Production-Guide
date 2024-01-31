@@ -10,7 +10,7 @@ layout: default
 
 Welcome to the first chapter of "AI Lifecycle Mastery: From Concept to Reality – Navigating Successful AI Deployments." As we start this journey together, this chapter serves as your gateway to understanding Azure's AI capabilities. Tailored for a diverse audience that ranges from technical practitioners to business leaders and project managers, this chapter aims to provide a foundational understanding of the AI landscape as seen through the lens of Azure's innovative tools and services. Here, we will navigate the intricacies of Azure's AI ecosystem, including Azure OpenAI, machine learning, and a spectrum of cognitive services - AI Services, setting the stage for a deeper exploration into the practicalities and strategies of AI deployment in your organization. Join us as we chart the course for a successful and informed AI integration, paving the way for the chapters that follow in this comprehensive guide.
 
-![Setting Off: Understanding AIs Landscape](./../media/chapter1.png)
+![Setting Off: Understanding AIs Landscape](./../media/chapter1.jpg)
 
 **Further Reading on AI History**: For those interested in the historical evolution of AI, these resources offer a deeper dive.
 
