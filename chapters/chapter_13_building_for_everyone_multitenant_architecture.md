@@ -18,7 +18,7 @@ Enterprise-wide platform solutions: multitenant solutions can take the form of s
 
 When building your own multitenant solutions, there are several key architectural [considerations](https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/overview) that will influence your design, as well as different architectural [approaches](https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/overview).
 
-![Building for Everyone: Multitenant Architecture](./../media/chapter13.png)
+![Building for Everyone: Multitenant Architecture](./../media/chapter13.jpg)
 
 ## Architectural approaches for AI and ML in multitenant solutions
 

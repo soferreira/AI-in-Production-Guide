@@ -10,7 +10,7 @@ layout: default
 
 Managing the financial aspects of AI projects is as crucial as the technological innovations that drive them. This chapter serves as a navigational chart through the often turbulent waters of budgeting, cost management, and resource optimization in AI endeavors. It underscores the pivotal role of astute financial planning and cost control in ensuring the successful deployment and sustainability of AI solutions. Recognized as a unique challenge, distinct from traditional software projects, AI cost management demands a nuanced understanding of the specific cost drivers and efficient resource utilization strategies. As we embark on this journey, we delve into the intricate balance of cost, performance, and efficiency, providing insights and tools to master the art of cost management in the dynamic realm of AI projects.
 
-![Managing the Expedition: Cost Management and Optimization](./../media/chapter9.png)
+![Managing the Expedition: Cost Management and Optimization](./../media/chapter9.jpg)
 
 ## Key aspects of cost management in AI projects
 

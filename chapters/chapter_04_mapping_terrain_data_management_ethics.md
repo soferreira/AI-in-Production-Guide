@@ -10,7 +10,7 @@ layout: default
 
 In this chapter we delve into the crux of any AI project - the data. No AI can function without data, making data management a critical step in the AI lifecycle. However, handling data isn't just about collection and storage. It is a multidimensional process with ethical implications. In this chapter, we aim to provide a comprehensive guide on managing data effectively and ethically with a focus on AI.
 
-![Mapping the Terrain: Data Management and Ethics](./../media/chapter4.png)
+![Mapping the Terrain: Data Management and Ethics](./../media/chapter4.jpg)
 
 ## Understanding Data Management
 

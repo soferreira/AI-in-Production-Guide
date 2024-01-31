@@ -10,7 +10,7 @@ layout: default
 
 This chapter is dedicated to the design and development phase of AI projects, a specialized realm within the broader spectrum of software development. While AI-driven projects are fundamentally software endeavors, they present unique challenges and require distinct methodologies, tools, and best practices. Our objective in this chapter is to guide you through these specific aspects, showcasing how to efficiently translate AI concepts into functional and robust solutions. We place a particular focus on harnessing Azure's tools and services to facilitate this journey.
 
-![Crafting the Vessel: Design and Development](./../media/chapter5.png)
+![Crafting the Vessel: Design and Development](./../media/chapter5.jpg)
 
 AI-driven projects, although a subset of software projects, diverge significantly in their approach. They are characterized by a data-centric nature, iterative model development and training, and an emphasis on continuous learning and adaptation. To better understand these differences, let's begin with a comparative table that highlights the key contrasts between AI-driven and traditional software development:
 
@@ -71,7 +71,7 @@ Designing for performance and scalability is a critical aspect of modern cloud a
 
 In today's rapidly evolving tech landscape, the fusion of collaborative development and DevOps practices, particularly in the realm of AI and machine learning, has become a cornerstone for success. This section brings together an array of resources designed to enhance your understanding and implementation of these practices. From maximizing the potential of large language models to navigating the intricacies of AI risk management, these resources provide valuable insights into the latest developments and best practices in collaborative AI development and MLOps.
 
-![fusion of collaborative development and DevOps practices in AI and machine learning](./../media/chapter5_devops.png)
+![fusion of collaborative development and DevOps practices in AI and machine learning](./../media/chapter5_devops.jpg)
 
 - **Maximizing LLMs with Azure LLMOps**: Explore the transformative potential of large language models (LLMs) in the Azure blog post, "[The New AI Imperative: Unlock Repeatable Value for Your Organization with LLMOps](https://azure.microsoft.com/en-us/blog/the-new-ai-imperative-unlock-repeatable-value-for-your-organization-with-llmops/)." This insightful piece advocates for LLMOps, a strategic approach to managing and deploying LLMs on Azure. Learn how to streamline development, optimize performance, and embrace responsible AI principles, ensuring your LLM investments yield consistent and impactful business results. The article highlights the pivotal role of Azure Machine Learning and Azure DevOps in enhancing the LLMOps lifecycle and emphasizes the importance of collaboration and knowledge sharing for successful LLM initiatives.
 
@@ -97,7 +97,7 @@ In today's rapidly evolving tech landscape, the fusion of collaborative developm
 
 As we navigate the evolving landscape of artificial intelligence, it becomes imperative to ground our progress in the principles of responsible AI. This section presents a curated selection of resources that explore the multifaceted aspects of ethical AI development. These resources provide insights into how we can embed fairness, transparency, accountability, privacy, and safety into AI systems, ensuring they are not only technologically advanced but also ethically sound and socially responsible.
 
-![Five principles of Responsible AI](./../media/chapter5_rai.png)
+![Five principles of Responsible AI](./../media/chapter5_rai.jpg)
 _Abstract representation of the five pillars of Responsible AI: Fairness,Transparency, Accountability, Privacy, and Safety, each a cornerstone in ethical AI development._
 
 - **Embedding Ethics in LLMOps with Azure**: Delve into the crucial integration of responsible AI principles in LLMOps with the Azure blog, "[Infuse responsible AI tools and practices in your LLMOps](https://azure.microsoft.com/en-us/blog/infuse-responsible-ai-tools-and-practices-in-your-llmops/)." This essential read underscores the significance of building safe, reliable, and unbiased large language models (LLMs). Discover Azure's advanced tools for continuous model monitoring, ensuring your LLMs remain attuned to evolving social norms and data trends. Learn about technologies like Prompt Flow that enhance groundedness and explainability in LLM outputs. The post also covers Azure’s robust data governance and security features, essential for ethical AI practices, and how Azure aligns with enterprise-level controls for data privacy and compliance. This resource is a gateway to understanding how LLMOps on Azure can lead not just to compliance but to the creation of LLMs that are truly ethical, impactful, and beneficial for organizations.

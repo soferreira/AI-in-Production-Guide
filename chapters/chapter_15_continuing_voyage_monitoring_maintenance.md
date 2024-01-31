@@ -16,7 +16,7 @@ The [Monitor Azure AI Services](https://learn.microsoft.com/training/modules/mon
 
 In the sections that follow, we will highlight the resources available that discuss best practices, and provide practical guidance on how to effectively monitor and maintain your Azure AI services.
 
-![Continuing the Voyage: Monitoring and Maintenance](./../media/chapter15.png)
+![Continuing the Voyage: Monitoring and Maintenance](./../media/chapter15.jpg)
 
 ## Azure OpenAI
 

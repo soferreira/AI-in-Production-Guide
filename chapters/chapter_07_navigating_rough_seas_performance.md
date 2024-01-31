@@ -10,7 +10,7 @@ layout: default
 
 This chapter navigates the complex yet crucial aspects of AI performance, addressing both theoretical and practical dimensions. As AI continues to integrate into diverse sectors, understanding and optimizing its performance is imperative. We embark on a journey through various facets of AI performance, exploring metrics, benchmarking, optimization techniques, and post-deployment challenges.
 
-![Navigating Rough Seas: Performance](./../media/chapter7.png)
+![Navigating Rough Seas: Performance](./../media/chapter7.jpg)
 
 ## Understanding AI Performance Metrics
 
@@ -119,7 +119,7 @@ In the "Sustaining AI Performance Post-Deployment" section, we delve into the un
 - **SelfTune: Automated Cloud Service Optimization**: Microsoft Research's blog post about ["Automatic Post-Deployment Management of Cloud Applications"](https://www.microsoft.com/en-us/research/blog/automatic-post-deployment-management-of-cloud-applications/) introduces SelfTune. This RL platform automates the tuning of configuration parameters in cloud services, enhancing their efficiency and reliability. It utilizes the Bluefin bandit learning algorithm for improved performance and has been successfully applied in managing cloud services like Azure ML and Azure Kubernetes Service. SelfTune's future focus includes developing more advanced RL-based solutions for efficient cloud management post-deployment.
 - **Advancements in Explainable AI**: The ScienceDirect article ["Explainable Artificial Intelligence (XAI)"](https://www.sciencedirect.com/science/article/pii/S1566253523001148) focuses on the field of XAI, which aims to enhance the understandability and transparency of AI systems. It addresses the challenge of the 'black-box' nature of AI, particularly in deep neural networks, by exploring methods that either design interpretable models or provide explanations for complex systems. The goal is to create models that are human-interpretable and can offer meaningful explanations, crucial in sensitive areas like healthcare and finance. This paper also introduces a novel framework for examining XAI methods and provides resources like case studies and a list of tools and datasets.
 
-![Sustaining AI Performance Post-Deployment](./../media/chapter7_sustain.png)
+![Sustaining AI Performance Post-Deployment](./../media/chapter7_sustain.jpg)
 
 ## Case Studies: Performance Challenges and Solutions
 
