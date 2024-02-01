@@ -45,9 +45,13 @@ Quotas are an essential concept across consumable Azure resources that help mana
 - **Strategies for high-volume token usage with Azure OpenAI**: In the rapidly evolving landscape of AI solutions, engineering teams face the challenge of scaling and managing model quotas within Azure OpenAI. This is amplified with the need to optimize token usage for multi-tenant SaaS applications that will see high volumes of requests. Explore [strategies for optimizing high-volume token usage with Azure OpenAI](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/strategies-for-optimizing-high-volume-token-usage-with-azure/ba-p/4007751) for a comprehensive guide to harness the full potential of Azure OpenAI Service to build reliable AI solutions that meet the demands of your customers. You will learn how to leverage models for different use cases, apply prompt engineering techniques, and use embeddings to provide context and reduce the overall token count without compromising on the quality of the results.
 - **Designing Azure Machine Learning infrastructure for production**: The [Azure MLOps Accelerator](https://microsoft.github.io/azureml-ops-accelerator/2-Design/) provides data science and engineering teams with a comprehensive guide to designing and deploying Azure Machine Learning infrastructure at scale from development to production. You will learn how to apply best practices to determine compute requirements, manage quotas, and optimize costs for your AI solutions.
 
-## Best practices for scaling and quota management for Azure AI services
+## Key Takeaways and Actionable Strategies for AI Implementation
 
-When it comes to scaling and quota management for Azure AI services, there are a few best practices to keep in mind.
+Scaling is a fundamental requirement for meeting the escalating demands of users and applying appropriate strategies for optimizing AI solutions leads to smooth user experiences on Azure. From leveraging the latest advancements in Azure's AI infrastructure to employing built-in auto-scaling features in Azure AI Services, these practical insights guide you in maintaining seamless user experiences during usage spikes.
+
+Equally important is understanding quota management, an essential practice for controlling resource consumption and preventing overuse and overspending. Whether optimizing Azure Machine Learning quotas at scale or managing quotas with Azure OpenAI using TPMs or PTUs, it is important to align resources with your project needs.
+
+When it comes to scaling and quota management for Azure AI services, there are a few best practices for CTOs, Development Leads, and Chief Architects to keep in mind.
 
 ### Azure Machine Learning
 
@@ -57,14 +61,9 @@ When it comes to scaling and quota management for Azure AI services, there are a
 
 ### Azure AI Services
 
+- **Optimize for PTU and TPM usage**: When using Azure OpenAI, consider deploying PTUs for reserved, anticipated capacity to ensure predictable performance for your AI solutions, combined with TPM deployments for flexibility for unexpected overages.
 - **Assign quotas per deployment**: When using Azure AI Services, such as Azure Cognitive Services or Azure OpenAI, assign tokens-per-minute (TPM) limits for each deployment to ensure that you have sufficient capacity for your AI solution use cases avoiding over-allocation and overspending.
 - **Scale out with multi-region deployments**: When scaling out your AI solutions, consider deploying your solutions across multiple regions to maximize the available quota capacity available for your Azure subscription.
 - **Request quota increases**: When you reach your quota limits, for high volume workloads, request quota increases for your Azure AI services to ensure that you can meet the demands of your customers.
-
-## Conclusion
-
-Scaling is a fundamental requirement for meeting the escalating demands of users and applying appropriate strategies for optimizing AI solutions leads to smooth user experiences on Azure. From leveraging the latest advancements in Azure's AI infrastructure to employing built-in auto-scaling features in Azure AI Services, these practical insights guide you in maintaining seamless user experiences during usage spikes.
-
-Equally important is understanding quota management, an essential practice for controlling resource consumption and preventing overuse and overspending. Whether optimizing Azure Machine Learning quotas at scale or managing quotas with Azure OpenAI using TPMs or PTUs, it is important to align resources with your project needs.
 
 By implementing these practices, you can navigate the complexities of scaling and quota management, ensuring that your Azure AI solutions not only meet current demands but also remain adaptable to the evolving landscape of AI.
