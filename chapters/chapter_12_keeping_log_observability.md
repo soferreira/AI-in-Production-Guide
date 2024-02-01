@@ -80,7 +80,7 @@ Open-source libraries for LLM evaluation and tracking:
 
 - [Observability for your Azure OpenAI instance](https://github.com/aavetis/azure-openai-logger) - is a starter kit aiming create a simple and easy to deploy solution to add observability to your Azure OpenAI instance. The approach adds an API Management instance as a proxy for your existing Azure OpenAI service, and funnels logs / requests / responses to an Application Insights instance. Additionally, a prebuilt query is saved to a workbook for easy access to logs.
 
-## Conclusion
+## Key Takeaways and Actionable Strategies for AI Implementation
 
 In conclusion, observability is a vital component for any technology leader focused on the cutting edge of AI and ML system development and maintenance. Observability, distinct from mere monitoring, offers a comprehensive view of a system's internal state through external outputs. This is especially crucial in AI, where complexities like model drift, data quality, and training-serving skew present unique challenges. Azure services provide robust tools for implementing AI observability, enhancing system reliability, and performance.
  
