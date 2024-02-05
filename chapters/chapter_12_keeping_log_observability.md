@@ -83,13 +83,13 @@ Open-source libraries for LLM evaluation and tracking:
 ## Key Takeaways and Actionable Strategies for AI Implementation
 
 In conclusion, observability is a vital component for any technology leader focused on the cutting edge of AI and ML system development and maintenance. Observability, distinct from mere monitoring, offers a comprehensive view of a system's internal state through external outputs. This is especially crucial in AI, where complexities like model drift, data quality, and training-serving skew present unique challenges. Azure services provide robust tools for implementing AI observability, enhancing system reliability, and performance.
- 
+
 For CTOs, Development Leads, and Chief Architects, the following recommendations are critical:
- 
+
 - **Implement Comprehensive Observability Tools**: Adopt a full suite of observability tools covering logging, tracing, and metrics. This should include systems for the collection, storage, and analysis of data. Tools like Azure Machine Learning Service SDK and Azure ML Observability library can be particularly effective.
- 
+
 - **Focus on AI-Specific Observability Challenges**: Pay special attention to AI-specific challenges like model drift and training-serving skew. Use tools like TruLens and Phoenix for evaluating and tracking Large Language Models (LLMs), ensuring that your AI systems remain reliable and effective over time.
- 
+
 - **Integrate Observability into CI/CD Pipelines**: Ensure that observability is an integral part of your Continuous Integration and Continuous Deployment (CI/CD) processes. This approach will help in early detection of issues, continuous performance improvement, and maintaining the reliability of AI models.
- 
+
 By embracing these strategies, leaders can ensure that their AI and ML systems are not only advanced and efficient but also transparent and reliable, ultimately leading to better decision-making and enhanced system performance.
