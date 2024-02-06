@@ -14,8 +14,6 @@ In this chapter, we explore the vital process of ideation and goal setting in AI
 
 ## Foundational Insights and Resources
 
-**In-Depth Resources for AI Planning**:
-
 - **O'Reilly's Guide on AI Goals**: The article ["How to Set AI Goals"](https://www.oreilly.com/radar/how-to-set-ai-goals/) by O'Reilly is an excellent resource for anyone embarking on AI projects. It provides insightful guidance on identifying opportunities, setting appropriate goals, understanding challenges, and aligning AI initiatives with business objectives. It also highlights the importance of a multi-functional team in defining successful AI project goals.
 
 - **Navigating AI Maturity and Digital Transformation**: The document ["AI Maturity and Organizations"](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4DIvg) from Microsoft presents a comprehensive view of AI maturity in organizations and its pivotal role in achieving digital transformation. The page offers a clear definition of AI and AI maturity, outlining a maturity model with four levels: foundational, approaching, aspirational, and mature, each with unique characteristics and recommendations for AI adoption. It emphasizes the importance of human-AI interaction and digital experiences, extending beyond traditional modalities like voice and vision, including mixed reality. Moreover, the document stresses the need for organizations to 'own' AI, encompassing strategy, culture, capabilities, and ethical frameworks, thereby ensuring AI is leveraged responsibly and effectively for the benefit of people and society.
@@ -28,8 +26,6 @@ In this chapter, we explore the vital process of ideation and goal setting in AI
 
 ## Azure AI Services and Project Ideation
 
-**Exploring Azure AI for Project Development**:
-
 - **Comprehensive Overview of Azure AI Services**: ["Azure AI Services - Microsoft Learn"](https://learn.microsoft.com/azure/ai/) offers a detailed look into Azure AI services' role in the rapid creation of intelligent applications, covering natural language processing, search, monitoring, and decision-making applications.
 
 - **Building Responsible AI Solutions with Azure**: The article ["Azure AI Services for Intelligent Apps"](https://azure.microsoft.com/services/ai/) discusses Azure AI's capabilities in quickly building responsible AI solutions. It highlights Azure's suite of customizable AI tools and models for modernizing business processes and fostering innovation.
@@ -39,8 +35,6 @@ In this chapter, we explore the vital process of ideation and goal setting in AI
 - **Generative AI Era Insights from Microsoft Azure**: ["Welcoming the Generative AI Era"](https://azure.microsoft.com/blog/welcome-to-the-generative-ai-era/) discusses generative AI's transformative role in automating content generation and enhancing quality, underlining the capabilities of Azure OpenAI Service.
 
 ## Risk Assessment and Mitigation Strategies
-
-**Strategies for AI Risk Management**:
 
 - **McKinsey's Analysis on AI Risks**: The McKinsey article ["Identifying and Managing Your Biggest AI Risks"](https://www.mckinsey.com/capabilities/quantumblack/our-insights/getting-to-know-and-manage-your-biggest-ai-risks) provides an in-depth analysis of various risks in AI projects and strategies for their management, emphasizing a systematic approach for effective risk mitigation.
 
