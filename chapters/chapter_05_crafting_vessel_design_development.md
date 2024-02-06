@@ -86,7 +86,7 @@ In today's rapidly evolving tech landscape, the fusion of collaborative developm
 
 - **Microsoft Azure MLOps Documentation**: Familiarize yourself with the core concepts and best practices for MLOps using Microsoft Azure's resources. Visit the [Official Azure MLOps documentation](https://learn.microsoft.com/azure/machine-learning/concept-model-management-and-deployment?view=azureml-api-2), explore the [MLOps in Azure Machine Learning service](https://learn.microsoft.com/azure/machine-learning/tutorial-deploy-model?view=azureml-api-2), and learn about [Azure DevOps for MLOps](https://learn.microsoft.com/azure/machine-learning/how-to-devops-machine-learning?view=azureml-api-2) for comprehensive insights.
 
-#### Articles and Tutorials
+**Articles and Tutorials**:
 
 - **"MLflow for MLOps"**: Enhance your MLOps knowledge with insights from this detailed article on managing machine learning life cycles using MLflow. Read more at [Managing Machine Learning Life Cycle with MLflow](https://medium.com/analytics-vidhya/managing-machine-learning-life-cycle-with-mlflow-3bea291d771b).
 
@@ -94,7 +94,7 @@ In today's rapidly evolving tech landscape, the fusion of collaborative developm
 
 - **"Building an MLOps Pipeline with Kubeflow"**: Dive into the specifics of enhancing Kubeflow with MLflow for an efficient MLOps pipeline. Learn more from [Enhancing Kubeflow with MLflow](https://medium.com/geekculture/enhancing-kubeflow-with-mlflow-8983373d0cac).
 
-#### Sample MLOps Projects
+**Sample MLOps Projects**:
 
 - **MLflow Model Serving Demo**: Witness MLOps in action with this informative MLflow model serving demonstration on YouTube: [MLflow Model Serving Demo](https://www.youtube.com/watch?v=A1NERf_8wwA).
 
