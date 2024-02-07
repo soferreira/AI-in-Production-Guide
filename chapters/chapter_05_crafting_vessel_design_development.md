@@ -107,7 +107,7 @@ In today's rapidly evolving tech landscape, the fusion of collaborative developm
 As we navigate the evolving landscape of artificial intelligence, it becomes imperative to ground our progress in the principles of responsible AI. This section presents a curated selection of resources that explore the multifaceted aspects of ethical AI development. These resources provide insights into how we can embed fairness, transparency, accountability, privacy, and safety into AI systems, ensuring they are not only technologically advanced but also ethically sound and socially responsible.
 
 ![Five principles of Responsible AI](./../media/chapter5_rai.jpg)
-_Abstract representation of the five pillars of Responsible AI: Fairness,Transparency, Accountability, Privacy, and Safety, each a cornerstone in ethical AI development._
+_Abstract representation of the five pillars of Responsible AI: Fairness, Transparency, Accountability, Privacy, and Safety, each a cornerstone in ethical AI development._
 
 - **Embedding Ethics in LLMOps with Azure**: The "[Infuse responsible AI tools and practices in your LLMOps](https://azure.microsoft.com/blog/infuse-responsible-ai-tools-and-practices-in-your-llmops/)" article underscores the significance of building safe, reliable, and unbiased LLMs. Discover Azure's advanced tools for continuous model monitoring, ensuring your LLMs remain attuned to evolving social norms and data trends. Learn about technologies like Prompt Flow that enhance groundedness and explainability in LLM outputs. The post also covers Azure’s robust data governance and security features, essential for ethical AI practices, and how Azure aligns with enterprise-level controls for data privacy and compliance.
 
