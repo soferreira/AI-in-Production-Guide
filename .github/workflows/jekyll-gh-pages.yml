@@ -38,6 +38,7 @@ jobs:
           use-verbose-mode: "yes"
           check-modified-files-only: "yes"
           folder-path: "chapters"
+          base-branch: "main"
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
