@@ -36,7 +36,7 @@ jobs:
           config-file: ".github/workflows/markdown.links.config.json"
           use-quiet-mode: "yes"
           use-verbose-mode: "yes"
-          check-modified-files-only: "yes"
+          # check-modified-files-only: "yes"
           folder-path: "chapters"
           base-branch: "main"
       - name: Build with Jekyll
