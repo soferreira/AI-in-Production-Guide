@@ -33,6 +33,8 @@ jobs:
       - name: Validate Markdown links
         uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
         with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'  
           folder-path: 'chapters'
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
