@@ -1,0 +1,20 @@
+name: Daily Link Validator
+
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Validate All Markdown links
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
+        with:
+          config-file: ".github/workflows/markdown.links.config.json"
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
+          folder-path: "chapters"
