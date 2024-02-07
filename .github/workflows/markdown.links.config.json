@@ -1,1 +1,8 @@
-{}
+{
+    "replacementPatterns": [
+        {
+            "pattern": "^(./chapter_(.*))(#.*)",
+            "replacement": "$1.md$3"
+        }
+    ]
+}
