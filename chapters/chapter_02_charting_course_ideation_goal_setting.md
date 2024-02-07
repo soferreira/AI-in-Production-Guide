@@ -26,13 +26,11 @@ In this chapter, we explore the vital process of ideation and goal setting in AI
 
 ## Azure AI Services and Project Ideation
 
-- **Comprehensive Overview of Azure AI Services**: ["Azure AI Services - Microsoft Learn"](https://learn.microsoft.com/azure/ai/) offers a detailed look into Azure AI services' role in the rapid creation of intelligent applications, covering natural language processing, search, monitoring, and decision-making applications.
+- **Comprehensive Overview of Azure AI Services**: ["Azure AI Services - Microsoft Learn"](https://learn.microsoft.com/en-us/azure/ai-services/) offers a detailed look into Azure AI services' role in the rapid creation of intelligent applications, covering natural language processing, search, monitoring, and decision-making applications.
 
-- **Building Responsible AI Solutions with Azure**: The article ["Azure AI Services for Intelligent Apps"](https://azure.microsoft.com/services/ai/) discusses Azure AI's capabilities in quickly building responsible AI solutions. It highlights Azure's suite of customizable AI tools and models for modernizing business processes and fostering innovation.
+- **Building Responsible AI Solutions with Azure**: The article ["Azure AI Services for Intelligent Apps"](https://azure.microsoft.com/en-us/products/ai-services/) discusses Azure AI's capabilities in quickly building responsible AI solutions. It highlights Azure's suite of customizable AI tools and models for modernizing business processes and fostering innovation.
 
-- **Real-World Applications of Azure AI**: The ["Microsoft Azure Blog about Generative AI"](https://azure.microsoft.com/blog/welcome-to-the-generative-ai-era/) offers insights into how companies use Azure AI to enhance customer experiences and optimize business processes, showcasing practical examples of its application in various industries.
-
-- **Generative AI Era Insights from Microsoft Azure**: ["Welcoming the Generative AI Era"](https://azure.microsoft.com/blog/welcome-to-the-generative-ai-era/) discusses generative AI's transformative role in automating content generation and enhancing quality, underlining the capabilities of Azure OpenAI Service.
+- **Real-World Applications of Azure AI**: The ["Microsoft Azure Blog about Generative AI"](https://azure.microsoft.com/en-us/blog/welcoming-the-generative-ai-era-with-microsoft-azure/) offers insights into how companies use Azure AI to enhance customer experiences and optimize business processes, showcasing practical examples of its application in various industries. It discusses generative AI's transformative role in automating content generation and enhancing quality, underlining the capabilities of Azure OpenAI Service.
 
 ## Risk Assessment and Mitigation Strategies
 
