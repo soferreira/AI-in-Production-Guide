@@ -24,6 +24,12 @@ $link-color: $blue-000;
     width: 100% !important;
     margin-left: auto !important;
     max-width: 100% !important;
+
+    main {
+      p {
+        text-align: justify !important;
+      }
+    }
   }
 
   .site-nav,
