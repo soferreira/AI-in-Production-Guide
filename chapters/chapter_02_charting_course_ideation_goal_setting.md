@@ -12,6 +12,15 @@ In this chapter, we explore the vital process of ideation and goal setting in AI
 
 ![Charting the Course: Ideation and Goal Setting](./../media/chapter2.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Foundational Insights and Resources
 
 - **O'Reilly's Guide on AI Goals**: The article ["How to Set AI Goals"](https://www.oreilly.com/radar/how-to-set-ai-goals/) by O'Reilly is an excellent resource for anyone embarking on AI projects. It provides insightful guidance on identifying opportunities, setting appropriate goals, understanding challenges, and aligning AI initiatives with business objectives. It also highlights the importance of a multi-functional team in defining successful AI project goals.

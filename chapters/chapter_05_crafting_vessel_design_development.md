@@ -16,6 +16,15 @@ Given the comprehensive content, we've organized this chapter to both address th
 
 ![Crafting the Vessel: Design and Development](./../media/chapter5.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 AI-driven projects, although a subset of software projects, diverge significantly in their approach. They are characterized by a data-centric nature, iterative model development and training, and an emphasis on continuous learning and adaptation. To better understand these differences, let's begin with a comparative table that highlights the key contrasts between AI-driven and traditional software development:
 
 | Aspect              | AI-Driven Software                                                                                              | Non-AI Software                                                                                                  |

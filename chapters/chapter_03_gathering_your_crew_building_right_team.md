@@ -10,13 +10,22 @@ layout: default
 
 Welcome to the dynamic world of AI team building, a crucial step in our journey. On this chapter, we aim to equip you with the knowledge and insights necessary for assembling a team that not only possesses technical acumen but also embodies ethical understanding, diversity, and a strong sense of collaboration. We'll navigate the critical aspects of creating an AI dream team, focusing on the innovative, responsible, and efficient handling of AI projects.
 
+![Gathering Your Crew: Building the Right Team](./../media/chapter3.jpg)
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 - **Constructing an AI Development Team**: ["How to Build an AI Development Team"](https://newxel.com/blog/how-to-build-an-ai-development-team/) from Newxel provides insightful guidance for businesses aiming to form an AI development team. The article focuses on the advantages, key roles, and steps necessary to build a team adept in AI solutions. It also compares the benefits and drawbacks of choosing either a dedicated team of remote AI developers or an in-house team of full-time employees. Additionally, it discusses the cost implications associated with each model, highlighting that a dedicated team might offer more cost-effectiveness and flexibility, which is particularly relevant for companies venturing into AI technology.
 
 - **Microsoft's Responsible AI Standard**: The ["Responsible AI Standard v2"](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-Responsible-AI-Standard-v2-General-Requirements-3.pdf) by Microsoft represents a significant milestone in the ongoing journey towards responsible AI. This document, born from years of dedicated effort, sets forth comprehensive product development requirements aimed at fostering responsible AI practices. This second version of Microsoft's standard to both disseminate the learnings and invite external feedback, thereby contributing to the broader conversation on establishing robust norms and practices in AI. Recognizing this as a dynamic process, Microsoft emphasize that the standard will continuously evolve, adapting to new research, technological advancements, legal changes, and internal and external insights.
 
 - **Advancements and Ethics in AI by Microsoft**: In ["Responsible AI in the Age of ChatGPT and Beyond"](https://blogs.microsoft.com/on-the-issues/2023/02/02/responsible-ai-chatgpt-artificial-intelligence/), a senior Microsoft leader discusses the impact of AI technologies like ChatGPT on knowledge work and creativity. He highlights AI's potential to enhance productivity, innovation, and various sectors, while acknowledging the ethical and social challenges it poses. The author sets three goals for responsible AI: ensuring ethical use, advancing competitiveness and security, and serving society broadly. He calls for collaborative efforts and a wider dialogue among stakeholders to navigate AI's future responsibly.
-
-![Gathering Your Crew: Building the Right Team](./../media/chapter3.jpg)
 
 ## Identifying Key Roles in AI Projects
 

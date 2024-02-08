@@ -12,6 +12,15 @@ In this chapter, we delve into the fascinating world of observability in the con
 
 ![Keeping a Log: Observability](./../media/chapter12.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## What is Observability?
 
 Observability is the ability to understand the internal state of a system based on its external outputs, such as logs, metrics, traces, and other telemetry data. It helps developers monitor, troubleshoot, and debug complex systems, such as cloud-based applications, by providing a comprehensive view of their behavior and performance.

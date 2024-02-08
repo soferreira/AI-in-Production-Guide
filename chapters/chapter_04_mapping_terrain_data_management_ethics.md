@@ -12,6 +12,15 @@ In this chapter we delve into the crux of any AI project - the data. No AI can f
 
 ![Mapping the Terrain: Data Management and Ethics](./../media/chapter4.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Understanding Data Management
 
 Data management is the process of ingesting, storing, organizing and maintaining the data created and collected by an organization. Effective data management is a crucial piece of deploying systems that run business applications and provide analytical information to help drive operational decision-making and strategic planning by executives, business managers and other end users. The data management process includes a combination of different functions that collectively aim to make sure the data in information systems is accurate, available and accessible.

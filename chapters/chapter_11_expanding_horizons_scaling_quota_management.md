@@ -12,6 +12,15 @@ In the ever-evolving landscape of AI, the ability to scale solutions efficiently
 
 ![Expanding Horizons: Scaling and Quota Management](./../media/chapter11.jpeg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Scaling Azure AI solutions for optimal performance
 
 To ensure that AI solutions can handle the increasing volume of data and requests from customers while maintaining low latency and high throughput, it is essential to scale them efficiently. In this section, we explore how you can scale your AI solutions in Azure to meet the demands of your customers.

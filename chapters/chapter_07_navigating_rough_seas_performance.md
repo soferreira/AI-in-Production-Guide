@@ -12,6 +12,15 @@ This chapter navigates the complex yet crucial aspects of AI performance, addres
 
 ![Navigating Rough Seas: Performance](./../media/chapter7.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Understanding AI Performance Metrics
 
 In this section, we dive into the multifaceted nature of AI model performance. Performance in AI transcends simple speed metrics, encompassing a variety of dimensions that collectively define the effectiveness of a model. Each aspect, from accuracy and reliability to fairness and interpretability, plays a crucial role in the overall performance and applicability of AI systems. Below, we've curated a selection of insightful articles and research papers that offer in-depth perspectives and expert analyses on these diverse performance metrics. These resources will guide you in comprehensively understanding and evaluating the performance of AI models.
