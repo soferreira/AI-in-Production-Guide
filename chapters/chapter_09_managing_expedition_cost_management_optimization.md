@@ -12,6 +12,15 @@ Managing the financial aspects of AI projects is as crucial as the technological
 
 ![Managing the Expedition: Cost Management and Optimization](./../media/chapter9.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Key aspects of cost management in AI projects
 
 Let's first examine the key aspects in which AI-infused projects differ from other software projects. Understanding these distinctions is crucial for effectively managing the unique cost implications associated with AI development. The table below lays out a comparative analysis across several critical factors, illustrating how AI projects present distinct financial challenges and requirements compared to traditional software endeavors

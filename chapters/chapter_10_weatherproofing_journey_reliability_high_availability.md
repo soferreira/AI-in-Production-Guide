@@ -12,6 +12,15 @@ In this section, we delve into the crucial aspects of reliability and high avail
 
 ![Weatherproofing the Journey: Reliability and High Availability](./../media/chapter10.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Importance of building resilient AI solutions
 
 When developing production AI solutions for your customers, it is essential to ensure that the system is able to handle high volumes of requests, staying resilient to failures and maintaining high availability, whether anticipated or unexpected. This is critical to ensuring your commitment to service level agreements (SLAs) that you may have agreed.

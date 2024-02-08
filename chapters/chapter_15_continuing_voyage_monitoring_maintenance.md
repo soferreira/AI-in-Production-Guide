@@ -8,9 +8,20 @@ layout: default
 
 # Chapter 15: Continuing the Voyage: Monitoring and Maintenance
 
-The effective use of AI Services services is not only just about implementation, it's also about continuous monitoring and maintenance.
+The effective use of AI Services services is not only just about implementation, it's also about continuous monitoring and maintenance. The importance of monitoring and maintenance in Azure AI services cannot be overstated. It ensures the smooth operation of AI applications, helps in identifying and rectifying issues promptly, and aids in optimizing performance over time. Moreover, it provides valuable insights into the system's behavior, which can be used to make informed decisions and strategic improvements.
 
-The importance of monitoring and maintenance in Azure AI services cannot be overstated. It ensures the smooth operation of AI applications, helps in identifying and rectifying issues promptly, and aids in optimizing performance over time. Moreover, it provides valuable insights into the system's behavior, which can be used to make informed decisions and strategic improvements. Here are some key elements of AI monitoring:
+![Continuing the Voyage: Monitoring and Maintenance](./../media/chapter15.jpg)
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+Here are some key elements of AI monitoring:
 
 - **Model Performance Monitoring**: This involves tracking the performance of AI models to ensure they continuously  deliver reliable and accurate results. Metrics such as precision and accuracy are commonly used to assess model performance. Continuous monitoring of these metrics allows engineers to detect shifts in model behavior, identify potential performance degradation or drift, and take necessary corrective measures to maintain model accuracy. We covered [performance](./chapter_07_navigating_rough_seas_performance) in chapter 7.
 
@@ -27,8 +38,6 @@ The importance of monitoring and maintenance in Azure AI services cannot be over
 The [Monitor Azure AI Services](https://learn.microsoft.com/training/modules/monitor-cognitive-services/) course will teach you the significance of monitoring Azure AI Services. This is crucial for tracking utilization, identifying trends, and detecting and troubleshooting issues. Upon completion of this module, you will have the ability to monitor Azure AI Services costs, create alerts, view metrics, and manage diagnostic logging. Metrics for the resource type Microsoft.CognitiveServices/accounts are comprehensively listed and can be accessed via the following link: [Supported metrics for Microsoft.CognitiveServices/accounts](https://learn.microsoft.com/azure/azure-monitor/reference/supported-metrics/microsoft-cognitiveservices-accounts-metrics).
 
 In the sections that follow, we will highlight the resources available that discuss best practices, and provide practical guidance on how to effectively monitor and maintain your Azure AI services.
-
-![Continuing the Voyage: Monitoring and Maintenance](./../media/chapter15.jpg)
 
 ### Azure OpenAI
 

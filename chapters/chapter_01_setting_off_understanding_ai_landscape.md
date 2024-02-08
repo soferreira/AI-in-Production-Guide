@@ -14,6 +14,15 @@ In this chapter, we examine the complexities of Azure's AI ecosystem. We will hi
 
 ![Setting Off: Understanding AIs Landscape](./../media/chapter1.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 **Further Reading on AI History**: For those interested in the historical evolution of AI, these resources offer a deeper dive.
 
 - **The Evolution of Artificial Intelligence**: ["A Brief History of Artificial Intelligence"](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/) from Harvard Science details the journey of AI from its roots in the 1950s to modern advancements. It highlights key milestones and challenges in AI's evolution, underscoring the impact of computational power and big data. The article notes how early limitations in computing resources restricted AI's growth, while recent technological leaps have empowered AI to master complex tasks. The discussion extends to AI's current applications in various sectors and its potential to transform society and culture. It also delves into the pursuit of general intelligence, a form of AI that could exceed human abilities across all areas, addressing the ethical considerations of such developments.

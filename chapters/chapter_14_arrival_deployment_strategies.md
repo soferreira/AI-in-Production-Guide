@@ -12,6 +12,15 @@ As the landscape of AI-powered solutions transitions from being experimental to 
 
 ![Arrival: Deployment Strategies](./../media/chapter14.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Foundations of AI Deployment on Azure
 
 The challenge in bringing AI solutions on Azure to production lies in the complexity of the deployment and configuration of environments. The need for a reliable, automated process to ensure a consistent deployment of AI solutions is critical to their success.

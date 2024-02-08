@@ -20,6 +20,15 @@ When building your own multitenant solutions, there are several key architectura
 
 ![Building for Everyone: Multitenant Architecture](./../media/chapter13.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Architectural approaches for AI and ML in multitenant solutions
 
 When building AI/ML applications in a multitenant environment, there are several key considerations and approaches to keep in mind:

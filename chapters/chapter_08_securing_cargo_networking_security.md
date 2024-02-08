@@ -12,24 +12,33 @@ Networking and security are two critical aspects that need to be addressed early
 
 ![Securing the Cargo: Networking and Security](./../media/chapter8.jpg)
 
-### Unique Challenges in AI Projects
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## Unique Challenges in AI Projects
 
 - **Data Sensitivity and Volume**: AI projects often deal with large datasets, including sensitive personal or proprietary information. This requires enhanced security measures, like advanced encryption and secure data storage solutions, to protect against data breaches and unauthorized access. The volume of data also necessitates scalable storage and robust data management systems.
   
 - **Complexity of AI Models**: AI models, especially those based on deep learning, can be intricate and opaque. This complexity introduces specific vulnerabilities, such as model inversion attacks, where an attacker could potentially extract sensitive data from the model. Ensuring the security of these models involves implementing techniques like model hardening and differential privacy.
 
-### Networking Considerations
+## Networking Considerations
 
 - **High Bandwidth Requirements**: AI systems, especially those involving large-scale data processing or real-time analytics, require substantial bandwidth. This necessitates a network infrastructure capable of handling high-volume data transfers efficiently without compromising speed or security.
 - **Real-Time Data Processing**: Applications like autonomous vehicles or real-time fraud detection systems depend on the swift processing of data. This demands networks with extremely low latency and high reliability, ensuring timely and accurate AI decision-making.
 
-### Security Aspects
+## Security Aspects
 
 - **Attack Surfaces in AI**: AI systems introduce novel attack surfaces, such as the risk of adversarial attacks where subtly altered input data can deceive an AI model. Protecting against these requires not just traditional cybersecurity measures but also AI-specific strategies like robust model training and adversarial testing.
   
 - **Data Privacy Concerns**: AI's ability to analyze and infer from data can raise significant privacy issues. Ensuring privacy in AI systems involves compliance with regulations like GDPR, employing techniques such as anonymization, and being vigilant about the ethical implications of data usage.
 
-### Compliance and Ethical Considerations
+## Compliance and Ethical Considerations
 
 - **Regulatory Compliance**: AI projects often fall under strict regulatory scrutiny, especially in sectors like healthcare or finance. Complying with these regulations requires a thorough understanding of legal requirements, regular compliance audits, and possibly adapting AI models to meet specific regulatory standards.
   

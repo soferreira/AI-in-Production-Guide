@@ -12,6 +12,15 @@ Testing in AI projects is a pivotal process that differs significantly from trad
 
 ![Testing the Waters: Testing and Iteration](./../media/chapter6_framework.jpg)
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Comparing Testing in AI Projects vs. Non-AI Software Testing
 
 The following table outlines the fundamental differences in testing methodologies between AI projects and traditional software, highlighting the distinct approaches, tools, and challenges associated with each. As AI continues to evolve, understanding these differences becomes crucial for developing reliable, ethical, and effective AI solutions.
