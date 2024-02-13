@@ -8,18 +8,11 @@ layout: default
 
 # Chapter 15: Continuing the Voyage: Monitoring and Maintenance
 
+{% include table_of_contents.md %}
+
 The effective use of AI Services services is not only just about implementation, it's also about continuous monitoring and maintenance. The importance of monitoring and maintenance in Azure AI services cannot be overstated. It ensures the smooth operation of AI applications, helps in identifying and rectifying issues promptly, and aids in optimizing performance over time. Moreover, it provides valuable insights into the system's behavior, which can be used to make informed decisions and strategic improvements.
 
 ![Continuing the Voyage: Monitoring and Maintenance](./../media/chapter15.jpg)
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 Here are some key elements of AI monitoring:
 

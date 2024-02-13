@@ -8,18 +8,11 @@ layout: default
 
 # Chapter 3: Gathering Your Crew: Building the Right Team
 
+{% include table_of_contents.md %}
+
 Welcome to the dynamic world of AI team building, a crucial step in our journey. On this chapter, we aim to equip you with the knowledge and insights necessary for assembling a team that not only possesses technical acumen but also embodies ethical understanding, diversity, and a strong sense of collaboration. We'll navigate the critical aspects of creating an AI dream team, focusing on the innovative, responsible, and efficient handling of AI projects.
 
 ![Gathering Your Crew: Building the Right Team](./../media/chapter3.jpg)
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 - **Constructing an AI Development Team**: ["How to Build an AI Development Team"](https://newxel.com/blog/how-to-build-an-ai-development-team/) from Newxel provides insightful guidance for businesses aiming to form an AI development team. The article focuses on the advantages, key roles, and steps necessary to build a team adept in AI solutions. It also compares the benefits and drawbacks of choosing either a dedicated team of remote AI developers or an in-house team of full-time employees. Additionally, it discusses the cost implications associated with each model, highlighting that a dedicated team might offer more cost-effectiveness and flexibility, which is particularly relevant for companies venturing into AI technology.
 

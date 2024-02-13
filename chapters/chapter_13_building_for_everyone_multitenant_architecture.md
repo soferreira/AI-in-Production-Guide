@@ -8,6 +8,8 @@ layout: default
 
 # Chapter 13: Building for Everyone: Multitenant Architecture
 
+{% include table_of_contents.md %}
+
 A multitenant solution refers to a single software application that is utilized by multiple customers, also known as tenants. It's important to distinguish between tenants and users; while users are individual accounts, a tenant represents a collective group of users from a single organization, company, or group.Examples of multitenant applications include:  
 
 Business-to-Business (B2B): multitenant solutions are often seen in software as a service (SaaS) products like accounting software and work tracking tools. These applications are shared among different businesses, each operating as a distinct tenant.
@@ -19,15 +21,6 @@ Enterprise-wide platform solutions: multitenant solutions can take the form of s
 When building your own multitenant solutions, there are several key architectural [considerations](https://learn.microsoft.com/azure/architecture/guide/multitenant/considerations/overview) that will influence your design, as well as different architectural [approaches](https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/overview).
 
 ![Building for Everyone: Multitenant Architecture](./../media/chapter13.jpg)
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ## Architectural approaches for AI and ML in multitenant solutions
 
