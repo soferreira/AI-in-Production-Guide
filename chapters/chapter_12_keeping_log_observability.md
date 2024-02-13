@@ -8,18 +8,11 @@ layout: default
 
 # Chapter 12: Keeping a Log: Observability
 
+{% include table_of_contents.md %}
+
 In this chapter, we delve into the fascinating world of observability in the context of Artificial Intelligence (AI). Observability, a term borrowed from control theory, is the ability to infer the internal states of a system based on its external outputs. In the realm of AI, observability takes on a new dimension as we strive to understand and interpret the behavior of complex AI models. From generative AI to predictive Machine Learning (ML), each AI model presents unique challenges and opportunities for observability. We will also explore how Azure services can be leveraged for AI observability.
 
 ![Keeping a Log: Observability](./../media/chapter12.jpg)
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ## What is Observability?
 

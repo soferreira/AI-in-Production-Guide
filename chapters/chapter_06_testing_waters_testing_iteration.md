@@ -8,18 +8,11 @@ layout: default
 
 # Chapter 6: Testing the Waters: Testing and Iteration
 
+{% include table_of_contents.md %}
+
 Testing in AI projects is a pivotal process that differs significantly from traditional software testing methodologies. While the core goal of ensuring functionality and reliability remains the same, the unique characteristics of AI systems demand specialized approaches. This section provides an overview of these differences, emphasizing the critical role that testing plays throughout the AI lifecycle.
 
 ![Testing the Waters: Testing and Iteration](./../media/chapter6_framework.jpg)
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ## Comparing Testing in AI Projects vs. Non-AI Software Testing
 

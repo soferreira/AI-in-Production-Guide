@@ -8,18 +8,11 @@ layout: default
 
 # Chapter 7: Navigating Rough Seas: Performance
 
+{% include table_of_contents.md %}
+
 This chapter navigates the complex yet crucial aspects of AI performance, addressing both theoretical and practical dimensions. As AI continues to integrate into diverse sectors, understanding and optimizing its performance is imperative. We embark on a journey through various facets of AI performance, exploring metrics, benchmarking, optimization techniques, and post-deployment challenges.
 
 ![Navigating Rough Seas: Performance](./../media/chapter7.jpg)
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
 
 ## Understanding AI Performance Metrics
 
