@@ -28,7 +28,9 @@ The challenge in bringing AI solutions on Azure to production lies in the comple
 Engineering teams building AI solutions on Azure must consider the following foundations of consistent deployment:
 
 - **DevOps**: DevOps is a set of practices that combines software development and IT operations. It aims to shorten an AI solution's development lifecycle and provide continuous delivery with high quality. DevOps focuses on the automation, testing, monitoring, and continuous delivery of your AI solution.
+
 - **MLOps**: Building on top of DevOps practices, MLOps provides a set of practices for collaboration and communication between data scientists and operations professionals to help manage the production of machine learning models. MLOps establishes a consistent and reliable process for building, training, and deploying ML models to production.
+
 - **LLMOps**: LLMOps builds on the practices of MLOps for teams building solutions using pre-trained LLMs, such as OpenAI's GPT models. LLMOps establishes practices for exploring LLMs, implementing prompt engineering, and fine tuning to validate, deploy, and monitor LLMs in production.
 
 ## Adopting LLMOps for Azure AI solutions
@@ -38,8 +40,11 @@ Large language models (LLMs) are powerful tools for AI solutions that generate n
 [An introduction to LLMOps](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/an-introduction-to-llmops-operationalizing-and-managing-large/ba-p/3910996) provides a comprehensive guide on how to adopt LLMOps for your AI solutions using Azure's AI tooling. You will learn how to:
 
 - **Use the model catalog to explore LLMs**: The Azure AI Studio provides a [model catalog](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog) that is carefully curated by Microsoft to help you discover language models from the open-source community, as well as OpenAI's GPT models. Use the model catalog to explore LLMs and find the best model for your use case.
+
 - **Curate data for fine-tuning**: Although LLMs are pre-trained on large datasets with the ability to perform a wide range of tasks, they may require you to fine-tune them on your own data to improve the accuracy of results. Use fine-tuning when you have a specific use case that is proving to be a challenging domain for a model. Avoid prematurely fine-tuning a model without first evaluating its performance.
+
 - **Evaluate prompts with Prompt Flow**: Any AI solution taking advantage of LLMs are based on prompts that instruct the model to perform tasks. Prompt engineering is a critical step in the development of AI solutions using LLMs and requires careful consideration of the prompts used to generate the desired results. Use prompt flow throughout your AI solution's development lifecycle to [evaluate prompts and ensure the model is generating the desired results](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-approach-gen-ai).
+
 - **Deploy and monitor your LLM**: Once you have evaluated and fine-tuned your LLM, you are ready to deploy it to production. Use the Azure AI Studio to [deploy your LLM](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/deployments-overview) as an API you can use for inference. Continuously monitor the performance of your LLM deployment to ensure it continues to generate the desired results for your AI solution use cases.
 
 Taking advantage of the tooling in the Azure AI Studio and adopting LLMOps practices will help you to efficiently and effectively deploy end-to-end AI solutions using LLMs.
@@ -51,7 +56,9 @@ MLOps offers crucial practices that help teams building custom machine learning 
 Azure Machine Learning provides a comprehensive suite of tools that provide the end-to-end implementation of MLOps practices for building, training, and deploying your models to production at scale. To [safely roll out your models to production in Azure Machine Learning](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/safely-roll-out-your-machine-learning-models-using-managed/ba-p/3823098), consider the following practices:
 
 - **Version models**: Similar to versioning your software, versioning your models is a critical practice for tracking the changes to your models over time. It allows you to easily deploy, upgrade, and roll back your model with a clear understanding of the changes made to it.
+
 - **Deploy safely**: Versioning provides multiple benefits including the ability to [deploy multiple versions of a model in a blue-green deployment for A/B testing](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-safely-rollout-online-endpoints?view=azureml-api-2&tabs=azure-cli). Use this approach to provide a consistent and reliable experience for your customers when rolling out new or experimental versions of your models for testing safely.
+
 - **Monitor and retrain**: Once your model is deployed to production, you must continuously monitor its performance to ensure it is generating reliable results. [Addressing model drift identified by monitoring](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/identifying-drift-in-ml-models-best-practices-for-generating/ba-p/4040531) is critical for the successful deployment and longevity of machine learning models in production.
 
 By adopting these practices, you can ensure that your machine learning models are deployed safely and reliably to production. This will help you to deliver value to your customers faster and more efficiently.

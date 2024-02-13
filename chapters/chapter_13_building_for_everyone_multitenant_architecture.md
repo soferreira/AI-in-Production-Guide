@@ -34,10 +34,15 @@ When building your own multitenant solutions, there are several key architectura
 When building AI/ML applications in a multitenant environment, there are several key considerations and approaches to keep in mind:
 
 - **Data Isolation and Privacy**: Each tenant's data should be isolated from others to ensure privacy and security. This is particularly important in AI/ML applications where data is the key driver of the system's learning and predictions.
+
 - **Model Training and Deployment**: Depending on the application, you might need to train a separate model for each tenant or a shared model for all tenants. If you're training separate models, you'll need to manage resources efficiently to handle the computational load. If you're using a shared model, you'll need to ensure that it performs well across all tenants.
+
 - **Scalability**: As the number of tenants increases, your AI/ML application should be able to scale accordingly. This includes the ability to handle increased data volumes, model training tasks, and prediction requests.
+
 - **Performance**: The performance of the AI/ML application should be consistent across all tenants, regardless of the size or activity level of each tenant.
+
 - **Customizability**: Depending on your application, you might need to provide tenants with the ability to customize the AI/ML models or features to suit their specific needs.
+
 - **Cost Management**: The costs of running AI/ML workloads can be high, especially when it comes to data storage and compute resources for model training and prediction. You'll need to manage these costs effectively while ensuring fair pricing for each tenant.
 
 Approaches to these considerations can vary. For example, you might choose to have each tenant's data and models completely isolated. Alternatively, you might opt to have data and models that are shared across tenants, but with strict access controls to ensure data privacy. Hybrid approaches are also possible, depending on the specific needs and constraints of your application. The article "[Architectural approaches for AI and ML in multitenant solutions](https://learn.microsoft.com/azure/architecture/guide/multitenant/approaches/ai-ml)" offers a comprehensive and detailed analysis of the topic.
@@ -59,6 +64,9 @@ The article "[Design patterns for multitenant SaaS applications and Azure AI Sea
 Multitenant architecture is a design pattern that allows multiple customers or users to share the same application or service, while maintaining their own data and configuration. AI multitenant solutions pose unique challenges and opportunities, such as data isolation, model customization, resource allocation, and scalability, with different architectural approaches and trade-offs. To effectively manage these challenges consider the following recommendations:
 
 - **Implement robust data isolation**: Ensure that each tenant's data is securely isolated from others to maintain privacy and security.
+
 - **Allow for model customization**: Different tenants may have different needs and preferences. Therefore, it's important to allow for customization of AI models to cater to individual tenant requirements.
+
 - **Efficient resource allocation**: Resources should be allocated in a way that optimizes performance for all tenants. This could involve load balancing, dynamic resource allocation, or other strategies.
+
 - **Plan for scalability**: As the number of tenants increases, the system should be able to scale accordingly without compromising on performance or functionality.

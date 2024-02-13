@@ -84,9 +84,12 @@ Iterative development is a key aspect of building AI models. It involves buildin
 Therefore iterative development impacts testing phase in AI projects in several ways:
 
 - **Continuous Testing**: Each iteration involves testing the model with the latest changes, leading to continuous and incremental improvements in model performance and reliability.
+
 - **Evolving Test Scenarios**: As the AI model evolves through iterations, testing scenarios also need to adapt to new functionalities or refined model capabilities.
+
 - **Feedback Loop Integration**: Iterative development allows for a consistent feedback loop where insights from testing directly inform subsequent development cycles, enhancing model accuracy and robustness.
--**Dynamic Problem-Solving**: Testing in iterative development is not static; it evolves to tackle new challenges that emerge as the AI model becomes more sophisticated.
+
+- **Dynamic Problem-Solving**: Testing in iterative development is not static; it evolves to tackle new challenges that emerge as the AI model becomes more sophisticated.
 
 - **MLOps Blog Series Part 1 by Microsoft Azure**: This [article](https://azure.microsoft.com/blog/mlops-blog-series-part-1-the-art-of-testing-machine-learning-systems-using-mlops/) discusses the importance of testing in developing machine learning systems, focusing on MLOps as a fusion of machine learning and software development. It highlights the MLOps workflow, emphasizing modular, flexible processes for building, deploying, and monitoring ML systems, and covers specific testing stages like model testing and application testing. The blog series aims to delve into testing levels, starting with robustness, scalability, and security, offering insights into ensuring high-quality, reliable, and efficient ML operations.
 
